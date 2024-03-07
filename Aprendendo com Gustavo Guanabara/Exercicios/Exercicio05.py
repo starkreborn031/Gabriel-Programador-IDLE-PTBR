@@ -1,10 +1,12 @@
-# Solicitação de entrada do usuário
-a = input('Digite o seu Nome, sua idade, sua altura e sua peso: ')
-b = input('Digite qual sua cor favorita, um nome de um amigo, a idade e sua altura: ')
-c = input('Digite em poucas palavras, seu proposito de vida, um valor em numero que voce quer como salario: ')
-#
-print("\n=== Informações sobre as entradas ===")
-print('O tipo primitivo desse valor é', type(a))
-print('O Texto acima é Alfabetico? {}'.format(a.isalpha()))
-print('O Texto acima é Numerico? {}'.format(a.isnumeric()))
-print('O Texto acima é Somavél? {}'.format(a.isalnum()))
+numero = int(input('Digiite um numero de 1 a 9: '))
+a = numero - 1
+s = numero + 1
+print('Analisando o valor {}, seu antecessor é {} e seu sucessor é {}'.format(numero, a, s))
+
+# _______________________________________________________________________________________________________________________________________
+
+numero = int(input('Digiite um numero de 1 a 9: '))
+print('Analizando o numero {}, Seu antecessor será {} logo seu sucessor será {}'.format(numero, (numero - 1), (numero + 1)))
+
+# _______________________________________________________________________________________________________________________________________
+
