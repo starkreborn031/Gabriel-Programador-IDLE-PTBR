@@ -6,5 +6,6 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }

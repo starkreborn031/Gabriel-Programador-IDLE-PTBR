@@ -1,156 +1,212 @@
+# Crie um programa em python que leia o nome completo de uma pessoa e mostre: onome com todos caracteres minusculos, quantas letras ao todo sem considerar espaços, o nome com todas as letras mauisculas, quantas letras tem o primeiro nome.
 
-# Pedindo ao usuário para inserir um número
-numero = int(input("Digite um número: "))
+nome = input('Digite seu nome completo: ')
+nome_minusculo = nome.lower()
+nome_maiusculo = nome.upper()
+primeiro_nome = nome.split()[0]
 
-# Calculando o antecessor e o sucessor
-antecessor = numero - 1
-sucessor = numero + 1
+print('Nome com todos caracteres minusculos:', nome_minusculo)
+print('Quantas letras ao todo sem considerar espaços:', len(nome_minusculo.replace(' ', '')))
+print('Nome com todas as letras mauisculas:', nome_maiusculo)
+print('Quantas letras tem o primeiro nome:', len(primeiro_nome))
 
-# Mostrando o antecessor e o sucessor
-print("O antecessor de", numero, "é", antecessor)
-print("O sucessor de", numero, "é", sucessor)
+# Saída:
 
-#_______________________________________________________________________________________________________________________________________
+# Digite seu nome completo: João da Silva
+# Nome com todos caracteres minusculos: joão da silva
+# Quantas letras ao todo sem considerar espaços: 13
+# Nome com todas as letras mauisculas: JOÃO DA SILVA
+# Quantas letras tem o primeiro nome: 4
 
-# Importando a biblioteca math para calcular a raiz quadrada
-import math
+""" O programa lê o nome completo de uma pessoa e mostra:
 
-# Pedindo ao usuário para digitar um número
-numero = float(input("Digite um número: "))
+- O nome com todos os caracteres minúsculos.
+- Quantas letras ao todo sem considerar espaços.
+- O nome com todas as letras maiúsculas.
+- Quantas letras tem o primeiro nome.
 
-# Calculando o dobro, o triplo e a raiz quadrada
-dobro = numero * 2
-triplo = numero * 3
-raiz_quadrada = math.sqrt(numero)
+O programa usa o método lower() para converter o nome para minúsculas, o método upper() para converter o nome para maiúsculas, o método split() para dividir o nome em palavras e o método len() para contar o número de letras em uma string."""
 
-# Mostrando os resultados
-print(f"O dobro de {numero} é {dobro}.")
-print(f"O triplo de {numero} é {triplo}.")
-print(f"A raiz quadrada de {numero} é {raiz_quadrada:.2f}.")
+"""O programa também usa o método replace() para substituir os espaços por nada, o que permite contar o número de letras no nome sem considerar os espaços."""
 
-#_______________________________________________________________________________________________________________________________________
+# ____________________________________________________________________________________________________________________________________________________________
 
-# Pedindo ao usuário para digitar as notas
-nota1 = float(input("Digite a primeira nota: "))
-nota2 = float(input("Digite a segunda nota: "))
+# Faça um programa que leia um numero de 0 a 9999 e mostre na tela ca um dos digitos separados
+# Exemplo: Digite um número: 1834 -unidade:4 -dezena:3 -centena:8 -milhar:1
 
-# Calculando a média das notas
-media = (nota1 + nota2) / 2
+numero = int(input('Digite um número de 0 a 9999: '))
 
-# Mostrando a média
-print(f"A média das notas é: {media}")
+unidade = numero % 10
+dezena = (numero % 100) // 10
+centena = (numero % 1000) // 100
+milhar = numero // 1000
 
-#_______________________________________________________________________________________________________________________________________
+print('Unidade:', unidade)
+print('Dezena:', dezena)
+print('Centena:', centena)
+print('Milhar:', milhar)
 
-# Pedindo ao usuário para digitar um valor em quilômetros
-quilometros = float(input("Digite o valor em quilômetros: "))
+"""  Saída:
 
-# Convertendo quilômetros em metros, centímetros e milímetros
-metros = quilometros * 1000
-centimetros = quilometros * 100000  # 1000 metros * 100 centímetros
-milimetros = quilometros * 1000000  # 1000 metros * 1000 milímetros
+- Digite um número de 0 a 9999: 1834
+- Unidade: 4
+- Dezena: 3
+- Centena: 8
+- Milhar: 1  """
 
-# Mostrando os resultados
-print(f"{quilometros} quilômetro(s) é igual a {metros} metro(s).")
-print(f"{quilometros} quilômetro(s) é igual a {centimetros} centímetro(s).")
-print(f"{quilometros} quilômetro(s) é igual a {milimetros} milímetro(s).")
+""" O programa lê um número de 0 a 9999 e mostra na tela cada um dos dígitos separados.
+- O programa usa o operador % para dividir o número pelo divisor e obter o resto.
+- O programa usa o operador // para dividir o número pelo divisor e obter a parte inteira.
+- O programa imprime cada um dos dígitos separados na tela.
+- O programa também usa o método int() para converter a entrada do usuário para um inteiro.
+- O programa também usa o método str() para converter um inteiro para uma string.
+- O programa também usa o método split() para dividir uma string em uma lista de strings.
+- O programa também usa o método join() para unir uma lista de strings em uma string.
+- O programa também usa o método replace() para substituir uma substring por outra substring.
+- O programa também usa o método find() para encontrar a primeira ocorrência de uma substring em uma string."""
 
-#_______________________________________________________________________________________________________________________________________
+# ____________________________________________________________________________________________________________________________________________________________
 
-# Pedindo ao usuário para digitar um número inteiro
-numero = int(input("Digite um número para ver sua tabuada: "))
+# Crie um programa que leia  nome de um País, Estado, Capital e Cidade, diga se em cada um dos nomes com o nome ''santo''
 
-# Mostrando a tabuada do número
-print(f"Tabuada de {numero}:")
-for i in range(1, 11):  # Loop de 1 a 10
-    resultado = numero * i
-    print(f"{numero} x {i} = {resultado}")
+pais = input('Digite o nome de um país: ')
+estado = input('Digite o nome de um estado: ')
+capital = input('Digite o nome de uma capital: ')
+cidade = input('Digite o nome de uma cidade: ')
 
-#_______________________________________________________________________________________________________________________________________
+if 'santo' in pais:
+    print('O nome do país contém a palavra "santo".')
+else:
+    print('O nome do país não contém a palavra "santo".')
 
-# Pedindo ao usuário para digitar a quantidade de dinheiro em reais
-dinheiro_em_reais = float(input("Digite a quantia de dinheiro em reais: "))
+if 'santo' in estado:
+    print('O nome do estado contém a palavra "santo".')
+else:
+    print('O nome do estado não contém a palavra "santo".')
 
-# Definindo a cotação do dólar
-cotacao_dolar = 3.27
+if 'santo' in capital:
+    print('O nome da capital contém a palavra "santo".')
+else:
+    print('O nome da capital não contém a palavra "santo".')
 
-# Calculando a quantidade de dólares que a pessoa pode trocar
-quantidade_dolares = dinheiro_em_reais / cotacao_dolar
+if 'santo' in cidade:
+    print('O nome da cidade contém a palavra "santo".')
+else:
+    print('O nome da cidade não contém a palavra "santo".')
 
-# Mostrando o resultado
-print(f"Com R${dinheiro_em_reais:.2f}, você pode trocar por aproximadamente ${quantidade_dolares:.2f}.")
+""" Saída:
 
-#_______________________________________________________________________________________________________________________________________
+- Digite o nome de um país: Brasil 
+- Digite o nome de um estado: São Paulo
+- Digite o nome de uma capital: Brasília
+- Digite o nome de uma cidade: Santos
 
-# Pede ao usuário a largura e altura da parede
-largura = float(input("Digite a largura da parede em metros: "))
-altura = float(input("Digite a altura da parede em metros: "))
+O nome do país não contém a palavra "santo".
+O nome do estado não contém a palavra "santo".
+O nome da capital não contém a palavra "santo".
+O nome da cidade não contém a palavra "santo".  """
 
-# Calcula a área
-area = largura * altura
+""" O programa lê o nome de um país, estado, capital e cidade, e diz se em cada um dos nomes com o nome ''santo''
 
-# Calcula a quantidade de tinta necessária, considerando que 1 litro pinta 2m²
-tinta_necessaria = area / 2
+- O programa usa o operador in para verificar se uma substring está em uma string.
+- O programa imprime uma mensagem dizendo se o nome contém a palavra "santo" ou não."""
 
-print(f"A área da sua parede é de {area}m².")
-print(f"Você vai precisar de {tinta_necessaria} litro(s) de tinta para pintá-la.")
+# ____________________________________________________________________________________________________________________________________________________________
 
-#_______________________________________________________________________________________________________________________________________
+# Crie um prgrama que leia o nome de uma pessoa e diga se ela tem Silva no nome
 
-# Inicializando uma lista para armazenar os produtos e seus preços
-produtos = []
+nome = input('Digite seu nome: ')
 
-# Pedindo ao usuário para inserir o nome e preço de 5 produtos
-for i in range(5):
-    nome_produto = input(f"Digite o nome do produto {i + 1}: ")
-    preco_produto = float(input(f"Digite o preço do produto {i + 1} (apenas números): R$"))
+if 'Silva' in nome:
+    print('Você tem Silva no nome.')
+else:
+    print('Você não tem Silva no nome.')
 
-    # Armazenando o nome e preço na lista de produtos
-    produtos.append({"nome": nome_produto, "preco": preco_produto})
+""" Saída:
 
-# Calculando o novo preço com 5% de desconto e mostrando os resultados
-print("\nNovos preços com 5% de desconto:")
-for produto in produtos:
-    preco_com_desconto = produto["preco"] * 0.95  # Aplicando um desconto de 5%
-    print(f"{produto['nome']}: R${preco_com_desconto:.2f}")
+- Digite seu nome: João da Silva 
+- Você tem Silva no nome.
 
-#_______________________________________________________________________________________________________________________________________
+- Digite seu nome: João da Santos 
+- Você não tem Silva no nome.  """
 
-# Pedindo ao usuário para inserir o nome completo e o salário
-nome_completo = input("Digite o nome completo do funcionário: ")
-salario_bruto = float(input("Digite o salário bruto do funcionário (apenas números): R$"))
+# ____________________________________________________________________________________________________________________________________________________________
 
-# Definindo as faixas de desconto de INSS
-faixas_inss = [(0, 1045.00, 0.075), (1045.01, 2089.60, 0.09), (2089.61, 3134.40, 0.12), (3134.41, 6101.06, 0.14)]
+# Faça um programa que peça ao usuario para escrever um texto de pelo menos 10 palavras e cada palavra com pelo menos 4 letras pelo teclado e depois mostre este resultado para o usuario: Quantas vezes foi digitado a letra Aa, Em qual posição ela aparece pela Primeira vez, Em qual posição ela aparece pela última vez, Quantas vezes foi digitado a letra Aa
 
-# Calculando o desconto de INSS
-desconto_inss = 0
-for faixa in faixas_inss:
-    if salario_bruto > faixa[0]:
-        desconto_inss += min(salario_bruto - faixa[0], faixa[1] - faixa[0] + 0.01) * faixa[2]
+texto = input("Digite um texto de pelo menos 10 palavras e cada palavra com pelo menos 4 letras: ")
 
-# Definindo as faixas de desconto de Imposto de Renda
-faixas_ir = [(0, 1903.98, 0, 0), (1903.99, 2826.65, 0.075, 142.80), (2826.66, 3751.05, 0.15, 354.80),
-             (3751.06, 4664.68, 0.225, 636.13), (4664.69, float('inf'), 0.275, 869.36)]
+# Verifica se o texto tem pelo menos 10 palavras e cada palavra tem pelo menos 4 letras
 
-# Calculando o desconto de Imposto de Renda
-base_calculo_ir = salario_bruto - desconto_inss
-desconto_ir = 0
+palavras = texto.split()
+if len(palavras) < 10 or any(len(palavra) < 4 for palavra in palavras):
+    print("O texto não atende aos requisitos. Tente novamente.")
+else:
+    # Conta quantas vezes a letra 'a' ou 'A' aparece no texto
 
-for faixa in faixas_ir:
-    if base_calculo_ir > faixa[0]:
-        desconto_ir += (min(base_calculo_ir, faixa[1]) - faixa[0]) * faixa[2] - faixa[3]
+    contagem = texto.lower().count('a')
+    print(f"A letra 'A' ou 'a' aparece {contagem} vezes.")
 
-# Calculando o salário líquido
-salario_liquido = salario_bruto - desconto_inss - desconto_ir
+    # Encontra a primeira e a última posição da letra 'a' ou 'A' no texto
 
-# Mostrando os resultados
-print("\nResumo dos Descontos:")
-print(f"Nome do funcionário: {nome_completo}")
-print(f"Salário bruto: R${salario_bruto:.2f}")
-print(f"Desconto de INSS: R${desconto_inss:.2f}")
-print(f"Desconto de Imposto de Renda: R${desconto_ir:.2f}")
-print(f"Salário líquido: R${salario_liquido:.2f}")
+    primeira_pos = texto.lower().find('a') + 1
+    ultima_pos = texto.lower().rfind('a') + 1
 
-#_______________________________________________________________________________________________________________________________________
+    print(f"A letra 'A' ou 'a' aparece pela primeira vez na posição {primeira_pos}.")
+    print(f"A letra 'A' ou 'a' aparece pela última vez na posição {ultima_pos}.")
 
+""" Este programa pede ao usuário para digitar um texto. Em seguida, verifica se o texto tem pelo menos 10 palavras e cada palavra tem pelo menos 4 letras. Se o texto atender a esses requisitos, o programa conta quantas vezes a letra ‘A’ ou ‘a’ aparece no texto e mostra a primeira e a última posição dessa letra. Se o texto não atender aos requisitos, o programa pede ao usuário para tentar novamente. Por favor, note que as posições são baseadas em 1, não em 0. """
+
+# ____________________________________________________________________________________________________________________________________________________________
+
+# Crie um programa que leia o Nome Completo de uma pessoa, Idade e o Mes de nascimento, e em seguida escolha um nome da pessoa e mostre quantas letras tem, em seguida mostre unidade e dezena da idade dessa pessoa e tambem do mes de seu nascimento e tambem mostre seu Primeiro e Ultimo nome.
+
+nome_completo = input('Digite seu nome completo: ')
+idade = int(input('Digite sua idade: '))
+mes_nascimento = input('Digite o mês de seu nascimento: ')
+
+# Escolha um nome da pessoa
+
+nome = nome_completo.split()[00]
+
+# Mostre quantas letras tem o nome da pessoa
+
+print(f'Seu nome tem {len(nome)} letras.')
+
+# Mostre unidade e dezena da idade da pessoa
+
+unidade_idade = idade % 10
+dezena_idade = idade // 10
+
+print(f'A unidade da sua idade é {unidade_idade} e a dezena é {dezena_idade}.')
+
+# Mostre unidade e dezena do mês de nascimento da pessoa
+
+unidade_mes = int(mes_nascimento[0])
+dezena_mes = int(mes_nascimento[1])
+
+print(f'A unidade do seu mês de nascimento é {unidade_mes} e a dezena é {dezena_mes}.')
+
+# Mostre seu Primeiro e Ultimo nome.
+
+primeiro_nome = nome_completo.split()[00]
+ultimo_nome = nome_completo.split()[-1]
+
+print(f'Seu primeiro nome é {primeiro_nome} e seu último nome é {ultimo_nome}.')
+
+
+""" Saída:
+
+- Digite seu nome completo: João da Silva
+- Digite sua idade: 25
+- Digite o mês de seu nascimento: Janeiro
+
+Seu nome tem 5 letras.
+A unidade da sua idade é 5 e a dezena é 2.
+A unidade do seu mês de nascimento é 1 e a dezena é 0.
+Seu primeiro nome é João e seu último nome é Silva. 
+
+ Este programa pede ao usuário para digitar seu nome completo, idade e mês de nascimento. Em seguida, ele escolhe um nome da pessoa e mostra quantas letras tem, em seguida mostra unidade e dezena da idade dessa pessoa e também do mês de seu nascimento e também mostra seu primeiro e último nome. """
+
+
+# ____________________________________________________________________________________________________________________________________________________________
