@@ -1,0 +1,1 @@
+# O cara só conversou fiado a aula toda kkk!
