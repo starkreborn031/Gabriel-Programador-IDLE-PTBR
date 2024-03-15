@@ -1,0 +1,4528 @@
+('C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+ 'Gustavo Guanabara\\build\\JOKENPO\\PYZ-00.pyz',
+ [('PIL',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program Files\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program Files\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program Files\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program Files\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program Files\\Python312\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc', 'C:\\Program Files\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Program Files\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program Files\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Program Files\\Python312\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime', 'C:\\Program Files\\Python312\\Lib\\_strptime.py', 'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program Files\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse', 'C:\\Program Files\\Python312\\Lib\\argparse.py', 'PYMODULE'),
+  ('ast', 'C:\\Program Files\\Python312\\Lib\\ast.py', 'PYMODULE'),
+  ('asyncio',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64', 'C:\\Program Files\\Python312\\Lib\\base64.py', 'PYMODULE'),
+  ('bisect', 'C:\\Program Files\\Python312\\Lib\\bisect.py', 'PYMODULE'),
+  ('bz2', 'C:\\Program Files\\Python312\\Lib\\bz2.py', 'PYMODULE'),
+  ('calendar', 'C:\\Program Files\\Python312\\Lib\\calendar.py', 'PYMODULE'),
+  ('certifi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi', 'C:\\Program Files\\Python312\\Lib\\cgi.py', 'PYMODULE'),
+  ('colorsys', 'C:\\Program Files\\Python312\\Lib\\colorsys.py', 'PYMODULE'),
+  ('concurrent',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program Files\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program Files\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program Files\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy', 'C:\\Program Files\\Python312\\Lib\\copy.py', 'PYMODULE'),
+  ('csv', 'C:\\Program Files\\Python312\\Lib\\csv.py', 'PYMODULE'),
+  ('ctypes',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program Files\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime', 'C:\\Program Files\\Python312\\Lib\\datetime.py', 'PYMODULE'),
+  ('decimal', 'C:\\Program Files\\Python312\\Lib\\decimal.py', 'PYMODULE'),
+  ('defusedxml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.ElementTree',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\ElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.cElementTree',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\cElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.common',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\common.py',
+   'PYMODULE'),
+  ('defusedxml.expatbuilder',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\expatbuilder.py',
+   'PYMODULE'),
+  ('defusedxml.expatreader',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\expatreader.py',
+   'PYMODULE'),
+  ('defusedxml.minidom',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\minidom.py',
+   'PYMODULE'),
+  ('defusedxml.pulldom',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\pulldom.py',
+   'PYMODULE'),
+  ('defusedxml.sax',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\sax.py',
+   'PYMODULE'),
+  ('defusedxml.xmlrpc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\defusedxml\\xmlrpc.py',
+   'PYMODULE'),
+  ('difflib', 'C:\\Program Files\\Python312\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\Program Files\\Python312\\Lib\\dis.py', 'PYMODULE'),
+  ('docutils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\__init__.py',
+   'PYMODULE'),
+  ('docutils.frontend',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\frontend.py',
+   'PYMODULE'),
+  ('docutils.io',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\io.py',
+   'PYMODULE'),
+  ('docutils.languages',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\__init__.py',
+   'PYMODULE'),
+  ('docutils.languages.af',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\af.py',
+   'PYMODULE'),
+  ('docutils.languages.ar',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\ar.py',
+   'PYMODULE'),
+  ('docutils.languages.ca',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\ca.py',
+   'PYMODULE'),
+  ('docutils.languages.cs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\cs.py',
+   'PYMODULE'),
+  ('docutils.languages.da',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\da.py',
+   'PYMODULE'),
+  ('docutils.languages.de',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\de.py',
+   'PYMODULE'),
+  ('docutils.languages.en',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\en.py',
+   'PYMODULE'),
+  ('docutils.languages.eo',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\eo.py',
+   'PYMODULE'),
+  ('docutils.languages.es',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\es.py',
+   'PYMODULE'),
+  ('docutils.languages.fa',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\fa.py',
+   'PYMODULE'),
+  ('docutils.languages.fi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\fi.py',
+   'PYMODULE'),
+  ('docutils.languages.fr',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\fr.py',
+   'PYMODULE'),
+  ('docutils.languages.gl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\gl.py',
+   'PYMODULE'),
+  ('docutils.languages.he',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\he.py',
+   'PYMODULE'),
+  ('docutils.languages.it',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\it.py',
+   'PYMODULE'),
+  ('docutils.languages.ja',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\ja.py',
+   'PYMODULE'),
+  ('docutils.languages.ko',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\ko.py',
+   'PYMODULE'),
+  ('docutils.languages.lt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\lt.py',
+   'PYMODULE'),
+  ('docutils.languages.lv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\lv.py',
+   'PYMODULE'),
+  ('docutils.languages.nl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\nl.py',
+   'PYMODULE'),
+  ('docutils.languages.pl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\pl.py',
+   'PYMODULE'),
+  ('docutils.languages.pt_br',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\pt_br.py',
+   'PYMODULE'),
+  ('docutils.languages.ru',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\ru.py',
+   'PYMODULE'),
+  ('docutils.languages.sk',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\sk.py',
+   'PYMODULE'),
+  ('docutils.languages.sv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\sv.py',
+   'PYMODULE'),
+  ('docutils.languages.uk',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\uk.py',
+   'PYMODULE'),
+  ('docutils.languages.zh_cn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\zh_cn.py',
+   'PYMODULE'),
+  ('docutils.languages.zh_tw',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\languages\\zh_tw.py',
+   'PYMODULE'),
+  ('docutils.nodes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\nodes.py',
+   'PYMODULE'),
+  ('docutils.parsers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.admonitions',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\admonitions.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.body',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\body.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.html',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\html.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.images',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\images.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.misc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\misc.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.parts',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\parts.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.references',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\references.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.tables',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\directives\\tables.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.af',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\af.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ar',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\ar.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ca',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\ca.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.cs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\cs.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.da',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\da.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.de',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\de.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.en',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\en.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.eo',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\eo.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.es',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\es.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fa',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\fa.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\fi.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fr',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\fr.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.gl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\gl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.he',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\he.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.it',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\it.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ja',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\ja.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ko',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\ko.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.lt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\lt.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.lv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\lv.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.nl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\nl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.pl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\pl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.pt_br',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\pt_br.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ru',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\ru.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.sk',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\sk.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.sv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\sv.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.uk',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\uk.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.zh_cn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_cn.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.zh_tw',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_tw.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.roles',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\roles.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.states',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\states.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.tableparser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\tableparser.py',
+   'PYMODULE'),
+  ('docutils.readers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\readers\\__init__.py',
+   'PYMODULE'),
+  ('docutils.readers.standalone',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\readers\\standalone.py',
+   'PYMODULE'),
+  ('docutils.statemachine',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\statemachine.py',
+   'PYMODULE'),
+  ('docutils.transforms',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\__init__.py',
+   'PYMODULE'),
+  ('docutils.transforms.frontmatter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\frontmatter.py',
+   'PYMODULE'),
+  ('docutils.transforms.misc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\misc.py',
+   'PYMODULE'),
+  ('docutils.transforms.parts',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\parts.py',
+   'PYMODULE'),
+  ('docutils.transforms.references',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\references.py',
+   'PYMODULE'),
+  ('docutils.transforms.universal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\universal.py',
+   'PYMODULE'),
+  ('docutils.transforms.writer_aux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\transforms\\writer_aux.py',
+   'PYMODULE'),
+  ('docutils.utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\__init__.py',
+   'PYMODULE'),
+  ('docutils.utils.code_analyzer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\code_analyzer.py',
+   'PYMODULE'),
+  ('docutils.utils.math',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\math\\__init__.py',
+   'PYMODULE'),
+  ('docutils.utils.math.latex2mathml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\math\\latex2mathml.py',
+   'PYMODULE'),
+  ('docutils.utils.math.math2html',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\math\\math2html.py',
+   'PYMODULE'),
+  ('docutils.utils.math.tex2mathml_extern',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\math\\tex2mathml_extern.py',
+   'PYMODULE'),
+  ('docutils.utils.math.tex2unichar',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\math\\tex2unichar.py',
+   'PYMODULE'),
+  ('docutils.utils.math.unichar2tex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\math\\unichar2tex.py',
+   'PYMODULE'),
+  ('docutils.utils.punctuation_chars',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\punctuation_chars.py',
+   'PYMODULE'),
+  ('docutils.utils.roman',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\roman.py',
+   'PYMODULE'),
+  ('docutils.utils.smartquotes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\smartquotes.py',
+   'PYMODULE'),
+  ('docutils.utils.urischemes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\utils\\urischemes.py',
+   'PYMODULE'),
+  ('docutils.writers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers._html_base',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\_html_base.py',
+   'PYMODULE'),
+  ('docutils.writers.docutils_xml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\docutils_xml.py',
+   'PYMODULE'),
+  ('docutils.writers.html4css1',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html4css1\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.html5_polyglot',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.latex2e',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.manpage',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\manpage.py',
+   'PYMODULE'),
+  ('docutils.writers.null',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\null.py',
+   'PYMODULE'),
+  ('docutils.writers.odf_odt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\odf_odt\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.odf_odt.prepstyles',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\odf_odt\\prepstyles.py',
+   'PYMODULE'),
+  ('docutils.writers.odf_odt.pygmentsformatter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\odf_odt\\pygmentsformatter.py',
+   'PYMODULE'),
+  ('docutils.writers.pep_html',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\pep_html\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.pseudoxml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\pseudoxml.py',
+   'PYMODULE'),
+  ('docutils.writers.s5_html',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.xetex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\xetex\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program Files\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program Files\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program Files\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program Files\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program Files\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program Files\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program Files\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program Files\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program Files\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program Files\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program Files\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program Files\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program Files\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program Files\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program Files\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program Files\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program Files\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program Files\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program Files\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program Files\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch', 'C:\\Program Files\\Python312\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('fractions', 'C:\\Program Files\\Python312\\Lib\\fractions.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Program Files\\Python312\\Lib\\ftplib.py', 'PYMODULE'),
+  ('getopt', 'C:\\Program Files\\Python312\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\Program Files\\Python312\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\Program Files\\Python312\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\Program Files\\Python312\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\Program Files\\Python312\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Program Files\\Python312\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hmac', 'C:\\Program Files\\Python312\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\Program Files\\Python312\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities',
+   'C:\\Program Files\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http', 'C:\\Program Files\\Python312\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('http.client',
+   'C:\\Program Files\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program Files\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program Files\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('imghdr', 'C:\\Program Files\\Python312\\Lib\\imghdr.py', 'PYMODULE'),
+  ('importlib',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect', 'C:\\Program Files\\Python312\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Program Files\\Python312\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\Program Files\\Python312\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program Files\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program Files\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program Files\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('kivy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\__init__.py',
+   'PYMODULE'),
+  ('kivy._version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\_version.py',
+   'PYMODULE'),
+  ('kivy.animation',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\animation.py',
+   'PYMODULE'),
+  ('kivy.app',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\app.py',
+   'PYMODULE'),
+  ('kivy.atlas',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\atlas.py',
+   'PYMODULE'),
+  ('kivy.base',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\base.py',
+   'PYMODULE'),
+  ('kivy.cache',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\cache.py',
+   'PYMODULE'),
+  ('kivy.clock',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\clock.py',
+   'PYMODULE'),
+  ('kivy.compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\compat.py',
+   'PYMODULE'),
+  ('kivy.config',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\config.py',
+   'PYMODULE'),
+  ('kivy.context',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\context.py',
+   'PYMODULE'),
+  ('kivy.core',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.audio',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_android',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_android.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_avplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_avplayer.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_ffpyplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_ffpyplayer.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_gstplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_gstplayer.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_pygame',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.camera',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\camera\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_android',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\camera\\camera_android.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_gi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\camera\\camera_gi.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_opencv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\camera\\camera_opencv.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_picamera',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\camera\\camera_picamera.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard._clipboard_ext',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_ext.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_android',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_android.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_dbusklipper',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_dbusklipper.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_dummy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_dummy.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_gtk3',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_gtk3.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_nspaste',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_nspaste.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_pygame',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_sdl2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_winctypes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_winctypes.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_xclip',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_xclip.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_xsel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\clipboard_xsel.py',
+   'PYMODULE'),
+  ('kivy.core.gl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\gl\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.image',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_dds',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\img_dds.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_ffpyplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\img_ffpyplayer.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_pil',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\img_pil.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_pygame',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\img_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_sdl2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\img_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_tex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\img_tex.py',
+   'PYMODULE'),
+  ('kivy.core.spelling',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\spelling\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.spelling.spelling_enchant',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\spelling\\spelling_enchant.py',
+   'PYMODULE'),
+  ('kivy.core.spelling.spelling_osxappkit',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\spelling\\spelling_osxappkit.py',
+   'PYMODULE'),
+  ('kivy.core.text',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.text.markup',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\markup.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_pango',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\text_pango.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_pil',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\text_pil.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_pygame',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\text_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_sdl2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\text_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.video',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\video\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_ffmpeg',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\video\\video_ffmpeg.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_ffpyplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\video\\video_ffpyplayer.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_gstplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\video\\video_gstplayer.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_null',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\video\\video_null.py',
+   'PYMODULE'),
+  ('kivy.core.window',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.window.window_egl_rpi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\window\\window_egl_rpi.py',
+   'PYMODULE'),
+  ('kivy.core.window.window_pygame',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\window\\window_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.window.window_sdl2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\window\\window_sdl2.py',
+   'PYMODULE'),
+  ('kivy.deps',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\deps\\__init__.py',
+   'PYMODULE'),
+  ('kivy.effects',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\effects\\__init__.py',
+   'PYMODULE'),
+  ('kivy.effects.dampedscroll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\effects\\dampedscroll.py',
+   'PYMODULE'),
+  ('kivy.effects.kinetic',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\effects\\kinetic.py',
+   'PYMODULE'),
+  ('kivy.effects.opacityscroll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\effects\\opacityscroll.py',
+   'PYMODULE'),
+  ('kivy.effects.scroll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\effects\\scroll.py',
+   'PYMODULE'),
+  ('kivy.event',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\event.py',
+   'PYMODULE'),
+  ('kivy.eventmanager',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\eventmanager\\__init__.py',
+   'PYMODULE'),
+  ('kivy.extras',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\extras\\__init__.py',
+   'PYMODULE'),
+  ('kivy.extras.highlight',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\extras\\highlight.py',
+   'PYMODULE'),
+  ('kivy.factory',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\factory.py',
+   'PYMODULE'),
+  ('kivy.factory_registers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\factory_registers.py',
+   'PYMODULE'),
+  ('kivy.gesture',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\gesture.py',
+   'PYMODULE'),
+  ('kivy.graphics',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\__init__.py',
+   'PYMODULE'),
+  ('kivy.graphics.cgl_backend',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.factory',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\factory.py',
+   'PYMODULE'),
+  ('kivy.input.motionevent',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\motionevent.py',
+   'PYMODULE'),
+  ('kivy.input.postproc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.calibration',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\calibration.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.dejitter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\dejitter.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.doubletap',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\doubletap.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.ignorelist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\ignorelist.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.retaintouch',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\retaintouch.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.tripletap',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\postproc\\tripletap.py',
+   'PYMODULE'),
+  ('kivy.input.provider',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\provider.py',
+   'PYMODULE'),
+  ('kivy.input.providers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.providers.androidjoystick',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\androidjoystick.py',
+   'PYMODULE'),
+  ('kivy.input.providers.hidinput',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\hidinput.py',
+   'PYMODULE'),
+  ('kivy.input.providers.leapfinger',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\leapfinger.py',
+   'PYMODULE'),
+  ('kivy.input.providers.linuxwacom',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\linuxwacom.py',
+   'PYMODULE'),
+  ('kivy.input.providers.mactouch',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\mactouch.py',
+   'PYMODULE'),
+  ('kivy.input.providers.mouse',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\mouse.py',
+   'PYMODULE'),
+  ('kivy.input.providers.mtdev',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\mtdev.py',
+   'PYMODULE'),
+  ('kivy.input.providers.probesysfs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\probesysfs.py',
+   'PYMODULE'),
+  ('kivy.input.providers.tuio',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\tuio.py',
+   'PYMODULE'),
+  ('kivy.input.providers.wm_common',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\wm_common.py',
+   'PYMODULE'),
+  ('kivy.input.providers.wm_pen',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\wm_pen.py',
+   'PYMODULE'),
+  ('kivy.input.providers.wm_touch',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\providers\\wm_touch.py',
+   'PYMODULE'),
+  ('kivy.input.shape',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\input\\shape.py',
+   'PYMODULE'),
+  ('kivy.lang',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lang\\__init__.py',
+   'PYMODULE'),
+  ('kivy.lang.builder',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lang\\builder.py',
+   'PYMODULE'),
+  ('kivy.lang.parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lang\\parser.py',
+   'PYMODULE'),
+  ('kivy.lib',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('kivy.lib.ddsfile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lib\\ddsfile.py',
+   'PYMODULE'),
+  ('kivy.lib.gstplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lib\\gstplayer\\__init__.py',
+   'PYMODULE'),
+  ('kivy.lib.mtdev',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lib\\mtdev.py',
+   'PYMODULE'),
+  ('kivy.lib.vidcore_lite',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lib\\vidcore_lite\\__init__.py',
+   'PYMODULE'),
+  ('kivy.loader',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\loader.py',
+   'PYMODULE'),
+  ('kivy.logger',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\logger.py',
+   'PYMODULE'),
+  ('kivy.metrics',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\metrics.py',
+   'PYMODULE'),
+  ('kivy.modules',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__init__.py',
+   'PYMODULE'),
+  ('kivy.multistroke',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\multistroke.py',
+   'PYMODULE'),
+  ('kivy.parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\parser.py',
+   'PYMODULE'),
+  ('kivy.resources',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\resources.py',
+   'PYMODULE'),
+  ('kivy.setupconfig',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\setupconfig.py',
+   'PYMODULE'),
+  ('kivy.support',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\support.py',
+   'PYMODULE'),
+  ('kivy.uix',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.accordion',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\accordion.py',
+   'PYMODULE'),
+  ('kivy.uix.actionbar',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\actionbar.py',
+   'PYMODULE'),
+  ('kivy.uix.anchorlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\anchorlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.button',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\button.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.codenavigation',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\codenavigation.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.compoundselection',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\compoundselection.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.cover',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\cover.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.drag',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\drag.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.emacs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\emacs.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.focus',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\focus.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.knspace',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\knspace.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.togglebutton',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\togglebutton.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.touchripple',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\behaviors\\touchripple.py',
+   'PYMODULE'),
+  ('kivy.uix.boxlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\boxlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.bubble',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\bubble.py',
+   'PYMODULE'),
+  ('kivy.uix.button',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\button.py',
+   'PYMODULE'),
+  ('kivy.uix.camera',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\camera.py',
+   'PYMODULE'),
+  ('kivy.uix.carousel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\carousel.py',
+   'PYMODULE'),
+  ('kivy.uix.checkbox',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\checkbox.py',
+   'PYMODULE'),
+  ('kivy.uix.codeinput',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\codeinput.py',
+   'PYMODULE'),
+  ('kivy.uix.colorpicker',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\colorpicker.py',
+   'PYMODULE'),
+  ('kivy.uix.dropdown',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\dropdown.py',
+   'PYMODULE'),
+  ('kivy.uix.effectwidget',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\effectwidget.py',
+   'PYMODULE'),
+  ('kivy.uix.filechooser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\filechooser.py',
+   'PYMODULE'),
+  ('kivy.uix.floatlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\floatlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.gesturesurface',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\gesturesurface.py',
+   'PYMODULE'),
+  ('kivy.uix.gridlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\gridlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.image',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\image.py',
+   'PYMODULE'),
+  ('kivy.uix.label',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\label.py',
+   'PYMODULE'),
+  ('kivy.uix.layout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\layout.py',
+   'PYMODULE'),
+  ('kivy.uix.modalview',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\modalview.py',
+   'PYMODULE'),
+  ('kivy.uix.pagelayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\pagelayout.py',
+   'PYMODULE'),
+  ('kivy.uix.popup',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\popup.py',
+   'PYMODULE'),
+  ('kivy.uix.progressbar',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\progressbar.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleboxlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recycleboxlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.recyclegridlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recyclegridlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.recyclelayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recyclelayout.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recycleview\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.__init__',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recycleview\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.datamodel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recycleview\\datamodel.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.layout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recycleview\\layout.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.views',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\recycleview\\views.py',
+   'PYMODULE'),
+  ('kivy.uix.relativelayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\relativelayout.py',
+   'PYMODULE'),
+  ('kivy.uix.rst',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\rst.py',
+   'PYMODULE'),
+  ('kivy.uix.sandbox',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\sandbox.py',
+   'PYMODULE'),
+  ('kivy.uix.scatter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\scatter.py',
+   'PYMODULE'),
+  ('kivy.uix.scatterlayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\scatterlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.screenmanager',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\screenmanager.py',
+   'PYMODULE'),
+  ('kivy.uix.scrollview',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\scrollview.py',
+   'PYMODULE'),
+  ('kivy.uix.settings',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\settings.py',
+   'PYMODULE'),
+  ('kivy.uix.slider',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\slider.py',
+   'PYMODULE'),
+  ('kivy.uix.spinner',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\spinner.py',
+   'PYMODULE'),
+  ('kivy.uix.splitter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\splitter.py',
+   'PYMODULE'),
+  ('kivy.uix.stacklayout',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\stacklayout.py',
+   'PYMODULE'),
+  ('kivy.uix.stencilview',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\stencilview.py',
+   'PYMODULE'),
+  ('kivy.uix.switch',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\switch.py',
+   'PYMODULE'),
+  ('kivy.uix.tabbedpanel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\tabbedpanel.py',
+   'PYMODULE'),
+  ('kivy.uix.textinput',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\textinput.py',
+   'PYMODULE'),
+  ('kivy.uix.togglebutton',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\togglebutton.py',
+   'PYMODULE'),
+  ('kivy.uix.treeview',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\treeview.py',
+   'PYMODULE'),
+  ('kivy.uix.video',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\video.py',
+   'PYMODULE'),
+  ('kivy.uix.videoplayer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\videoplayer.py',
+   'PYMODULE'),
+  ('kivy.uix.vkeyboard',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\vkeyboard.py',
+   'PYMODULE'),
+  ('kivy.uix.widget',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\uix\\widget.py',
+   'PYMODULE'),
+  ('kivy.utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\utils.py',
+   'PYMODULE'),
+  ('kivy.vector',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\vector.py',
+   'PYMODULE'),
+  ('kivy.weakmethod',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\weakmethod.py',
+   'PYMODULE'),
+  ('kivy_deps',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy_deps\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program Files\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma', 'C:\\Program Files\\Python312\\Lib\\lzma.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Program Files\\Python312\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc', 'C:\\Program Files\\Python312\\Lib\\netrc.py', 'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program Files\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers', 'C:\\Program Files\\Python312\\Lib\\numbers.py', 'PYMODULE'),
+  ('opcode', 'C:\\Program Files\\Python312\\Lib\\opcode.py', 'PYMODULE'),
+  ('optparse', 'C:\\Program Files\\Python312\\Lib\\optparse.py', 'PYMODULE'),
+  ('packaging',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib', 'C:\\Program Files\\Python312\\Lib\\pathlib.py', 'PYMODULE'),
+  ('pickle', 'C:\\Program Files\\Python312\\Lib\\pickle.py', 'PYMODULE'),
+  ('pkg_resources',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil', 'C:\\Program Files\\Python312\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\Program Files\\Python312\\Lib\\platform.py', 'PYMODULE'),
+  ('platformdirs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('plistlib', 'C:\\Program Files\\Python312\\Lib\\plistlib.py', 'PYMODULE'),
+  ('pprint', 'C:\\Program Files\\Python312\\Lib\\pprint.py', 'PYMODULE'),
+  ('py_compile',
+   'C:\\Program Files\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc', 'C:\\Program Files\\Python312\\Lib\\pydoc.py', 'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program Files\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program Files\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygame',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\version.py',
+   'PYMODULE'),
+  ('pygments',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pygments.console',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\console.py',
+   'PYMODULE'),
+  ('pygments.filter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pygments.filters',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatter',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pygments.formatters',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatters._mapping',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'PYMODULE'),
+  ('pygments.formatters.groff',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\groff.py',
+   'PYMODULE'),
+  ('pygments.formatters.html',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\html.py',
+   'PYMODULE'),
+  ('pygments.formatters.img',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\img.py',
+   'PYMODULE'),
+  ('pygments.formatters.irc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\irc.py',
+   'PYMODULE'),
+  ('pygments.formatters.latex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.other',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\other.py',
+   'PYMODULE'),
+  ('pygments.formatters.pangomarkup',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\pangomarkup.py',
+   'PYMODULE'),
+  ('pygments.formatters.rtf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\rtf.py',
+   'PYMODULE'),
+  ('pygments.formatters.svg',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\svg.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'PYMODULE'),
+  ('pygments.lexer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('pygments.lexers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pygments.lexers._ada_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_ada_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._css_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_css_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._julia_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_julia_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lilypond_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_lilypond_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mapping',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.lexers._mql_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mysql_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_mysql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._qlik_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_qlik_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scheme_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_scheme_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._tsql_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._usd_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_usd_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vbscript_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ada',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ada.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.ambient',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.amdgpu',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\amdgpu.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.apdlexer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\apdlexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.arrow',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\arrow.py',
+   'PYMODULE'),
+  ('pygments.lexers.arturo',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\arturo.py',
+   'PYMODULE'),
+  ('pygments.lexers.asc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\asc.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.asn1',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\asn1.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\automation.py',
+   'PYMODULE'),
+  ('pygments.lexers.bare',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\bare.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.bdd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\bdd.py',
+   'PYMODULE'),
+  ('pygments.lexers.berry',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\berry.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.blueprint',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\blueprint.py',
+   'PYMODULE'),
+  ('pygments.lexers.boa',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\boa.py',
+   'PYMODULE'),
+  ('pygments.lexers.bqn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\bqn.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\business.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.carbon',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\carbon.py',
+   'PYMODULE'),
+  ('pygments.lexers.cddl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\cddl.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.comal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\comal.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers.cplint',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\cplint.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.dax',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\dax.py',
+   'PYMODULE'),
+  ('pygments.lexers.devicetree',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\devicetree.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.dns',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\dns.py',
+   'PYMODULE'),
+  ('pygments.lexers.dotnet',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.ecl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ecl.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers.elpi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\elpi.py',
+   'PYMODULE'),
+  ('pygments.lexers.email',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\email.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.fift',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\fift.py',
+   'PYMODULE'),
+  ('pygments.lexers.floscript',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\floscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers.fortran',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\fortran.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.freefem',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\freefem.py',
+   'PYMODULE'),
+  ('pygments.lexers.func',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\func.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers.futhark',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\futhark.py',
+   'PYMODULE'),
+  ('pygments.lexers.gcodelexer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\gcodelexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.gdscript',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\gdscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphql',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\graphql.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphviz',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\graphviz.py',
+   'PYMODULE'),
+  ('pygments.lexers.gsql',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\gsql.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.jmespath',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\jmespath.py',
+   'PYMODULE'),
+  ('pygments.lexers.jslt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\jslt.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsonnet',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\jsonnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsx',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\jsx.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers.kuin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\kuin.py',
+   'PYMODULE'),
+  ('pygments.lexers.kusto',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\kusto.py',
+   'PYMODULE'),
+  ('pygments.lexers.ldap',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ldap.py',
+   'PYMODULE'),
+  ('pygments.lexers.lean',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\lean.py',
+   'PYMODULE'),
+  ('pygments.lexers.lilypond',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers.macaulay2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\macaulay2.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers.maxima',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\maxima.py',
+   'PYMODULE'),
+  ('pygments.lexers.meson',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\meson.py',
+   'PYMODULE'),
+  ('pygments.lexers.mime',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\mime.py',
+   'PYMODULE'),
+  ('pygments.lexers.minecraft',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\minecraft.py',
+   'PYMODULE'),
+  ('pygments.lexers.mips',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\mips.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexers.modeling',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\modeling.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.mosel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\mosel.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.nit',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\nit.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.openscad',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\openscad.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.lexers.pascal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\pascal.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.phix',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\phix.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.pointless',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\pointless.py',
+   'PYMODULE'),
+  ('pygments.lexers.pony',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\pony.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.procfile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\procfile.py',
+   'PYMODULE'),
+  ('pygments.lexers.prolog',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\prolog.py',
+   'PYMODULE'),
+  ('pygments.lexers.promql',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\promql.py',
+   'PYMODULE'),
+  ('pygments.lexers.prql',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\prql.py',
+   'PYMODULE'),
+  ('pygments.lexers.ptx',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ptx.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.lexers.q',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\q.py',
+   'PYMODULE'),
+  ('pygments.lexers.qlik',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\qlik.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.ride',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ride.py',
+   'PYMODULE'),
+  ('pygments.lexers.rita',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\rita.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.savi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\savi.py',
+   'PYMODULE'),
+  ('pygments.lexers.scdoc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\scdoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers.sgf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\sgf.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers.sieve',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\sieve.py',
+   'PYMODULE'),
+  ('pygments.lexers.slash',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\slash.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers.smithy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\smithy.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.solidity',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\solidity.py',
+   'PYMODULE'),
+  ('pygments.lexers.sophia',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\sophia.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.spice',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\spice.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.srcinfo',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\srcinfo.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.lexers.supercollider',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\supercollider.py',
+   'PYMODULE'),
+  ('pygments.lexers.tal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\tal.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.teal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\teal.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.teraterm',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\teraterm.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.textedit',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\textedit.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.thingsdb',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\thingsdb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tlb',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\tlb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tls',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\tls.py',
+   'PYMODULE'),
+  ('pygments.lexers.tnt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\tnt.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ul4',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\ul4.py',
+   'PYMODULE'),
+  ('pygments.lexers.unicon',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\unicon.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.usd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\usd.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers.verifpal',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\verifpal.py',
+   'PYMODULE'),
+  ('pygments.lexers.vip',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\vip.py',
+   'PYMODULE'),
+  ('pygments.lexers.vyper',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\vyper.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.webassembly',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\webassembly.py',
+   'PYMODULE'),
+  ('pygments.lexers.webidl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\webidl.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wgsl',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\wgsl.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.wowtoc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\wowtoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wren',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\wren.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.xorg',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\xorg.py',
+   'PYMODULE'),
+  ('pygments.lexers.yang',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\yang.py',
+   'PYMODULE'),
+  ('pygments.lexers.yara',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\yara.py',
+   'PYMODULE'),
+  ('pygments.lexers.zig',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\lexers\\zig.py',
+   'PYMODULE'),
+  ('pygments.modeline',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pygments.plugin',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pygments.regexopt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pygments.scanner',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\scanner.py',
+   'PYMODULE'),
+  ('pygments.style',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\style.py',
+   'PYMODULE'),
+  ('pygments.styles',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pygments.styles._mapping',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.arduino',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\arduino.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.styles.borland',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\borland.py',
+   'PYMODULE'),
+  ('pygments.styles.bw',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\bw.py',
+   'PYMODULE'),
+  ('pygments.styles.colorful',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\colorful.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\default.py',
+   'PYMODULE'),
+  ('pygments.styles.dracula',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\dracula.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly_grayscale',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\friendly_grayscale.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.gh_dark',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\gh_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.gruvbox',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\gruvbox.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.inkpot',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\inkpot.py',
+   'PYMODULE'),
+  ('pygments.styles.lightbulb',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\lightbulb.py',
+   'PYMODULE'),
+  ('pygments.styles.lilypond',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.styles.lovelace',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\lovelace.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.material',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\material.py',
+   'PYMODULE'),
+  ('pygments.styles.monokai',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.murphy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.native',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\native.py',
+   'PYMODULE'),
+  ('pygments.styles.nord',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\nord.py',
+   'PYMODULE'),
+  ('pygments.styles.onedark',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\onedark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.perldoc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.styles.rainbow_dash',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
+   'PYMODULE'),
+  ('pygments.styles.rrt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\rrt.py',
+   'PYMODULE'),
+  ('pygments.styles.sas',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\sas.py',
+   'PYMODULE'),
+  ('pygments.styles.solarized',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\solarized.py',
+   'PYMODULE'),
+  ('pygments.styles.staroffice',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\staroffice.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_dark',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\stata_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_light',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\stata_light.py',
+   'PYMODULE'),
+  ('pygments.styles.tango',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\tango.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
+  ('pygments.styles.vs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\vs.py',
+   'PYMODULE'),
+  ('pygments.styles.xcode',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\xcode.py',
+   'PYMODULE'),
+  ('pygments.styles.zenburn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\styles\\zenburn.py',
+   'PYMODULE'),
+  ('pygments.token',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\token.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Program Files\\Python312\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\Program Files\\Python312\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\Program Files\\Python312\\Lib\\random.py', 'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Program Files\\Python312\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\Program Files\\Python312\\Lib\\runpy.py', 'PYMODULE'),
+  ('secrets', 'C:\\Program Files\\Python312\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\Program Files\\Python312\\Lib\\selectors.py', 'PYMODULE'),
+  ('setuptools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._collections',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._distutils._functools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.bcppcompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.py37compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.register',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.upload',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py',
+   'PYMODULE'),
+  ('setuptools._distutils.config',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvc9compiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvccompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py38compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py39compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._py39compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._adapters',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._common',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._itertools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._legacy',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.abc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.readers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.simple',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.metadata',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.typing_extensions',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex', 'C:\\Program Files\\Python312\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\Program Files\\Python312\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\Program Files\\Python312\\Lib\\signal.py', 'PYMODULE'),
+  ('site', 'C:\\Program Files\\Python312\\Lib\\site.py', 'PYMODULE'),
+  ('socket', 'C:\\Program Files\\Python312\\Lib\\socket.py', 'PYMODULE'),
+  ('socketserver',
+   'C:\\Program Files\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl', 'C:\\Program Files\\Python312\\Lib\\ssl.py', 'PYMODULE'),
+  ('statistics',
+   'C:\\Program Files\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string', 'C:\\Program Files\\Python312\\Lib\\string.py', 'PYMODULE'),
+  ('stringprep',
+   'C:\\Program Files\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program Files\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig', 'C:\\Program Files\\Python312\\Lib\\sysconfig.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Program Files\\Python312\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Program Files\\Python312\\Lib\\tempfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Program Files\\Python312\\Lib\\textwrap.py', 'PYMODULE'),
+  ('threading', 'C:\\Program Files\\Python312\\Lib\\threading.py', 'PYMODULE'),
+  ('token', 'C:\\Program Files\\Python312\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Program Files\\Python312\\Lib\\tokenize.py', 'PYMODULE'),
+  ('tomllib',
+   'C:\\Program Files\\Python312\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Program Files\\Python312\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Program Files\\Python312\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Program Files\\Python312\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program Files\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty', 'C:\\Program Files\\Python312\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\Program Files\\Python312\\Lib\\typing.py', 'PYMODULE'),
+  ('typing_extensions',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program Files\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('xml', 'C:\\Program Files\\Python312\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.dom',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program Files\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program Files\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc.server',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\server.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport', 'C:\\Program Files\\Python312\\Lib\\zipimport.py', 'PYMODULE')])

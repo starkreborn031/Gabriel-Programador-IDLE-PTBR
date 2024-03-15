@@ -1,0 +1,1293 @@
+('C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+ 'Gustavo Guanabara\\dist\\JOKENPO.exe',
+ False,
+ False,
+ False,
+ 'c:\\Gabriel '
+ 'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+ 'Gustavo Guanabara\\build\\JOKENPO\\JOKENPO.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_kivy',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_kivy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_gstreamer',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_gstreamer.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('JOKENPO',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\JOKENPO.py',
+   'PYSOURCE'),
+  ('python312.dll', 'C:\\Program Files\\Python312\\python312.dll', 'BINARY'),
+  ('libtiff-5.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('libjpeg-9.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('freetype.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libmodplug-1.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libmodplug-1.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('_lzma.pyd', 'C:\\Program Files\\Python312\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Program Files\\Python312\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd', 'C:\\Program Files\\Python312\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd', 'C:\\Program Files\\Python312\\DLLs\\_wmi.pyd', 'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Program Files\\Python312\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd', 'C:\\Program Files\\Python312\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_imagingft.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\_cffi_backend.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program Files\\Python312\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\clipboard\\_clipboard_sdl2.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_sdl2.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_glew.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_glew.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_event.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\_event.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_metrics.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\_metrics.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\scrap.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\imageext.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\mixer.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\mixer_music.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\font.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\_freetype.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\transform.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\time.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\pixelarray.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\mask.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\surface.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\pixelcopy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\mouse.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\key.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\joystick.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\image.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\event.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\draw.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\display.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\math.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\bufferproxy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\color.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\surflock.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\rwobject.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\rect.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\constants.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\base.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\opengl.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\opengl.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\window\\_window_sdl2.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\window\\_window_sdl2.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\compiler.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\compiler.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\texture.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\texture.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\context.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\context.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\boxshadow.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\boxshadow.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\shader.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\shader.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\lib\\gstplayer\\_gstplayer.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\lib\\gstplayer\\_gstplayer.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\scissor_instructions.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\scissor_instructions.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32gui.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vbo.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\vbo.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\audio\\audio_sdl2.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_sdl2.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vertex_instructions.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\vertex_instructions.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_mock.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_mock.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\context_instructions.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\context_instructions.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\text\\text_layout.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\text_layout.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\stencil_instructions.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\stencil_instructions.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\text\\_text_sdl2.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\text\\_text_sdl2.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\gl_instructions.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\gl_instructions.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\opengl_utils.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\opengl_utils.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\fbo.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\fbo.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\instructions.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\instructions.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_gl.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_gl.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\tesselator.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\tesselator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\svg.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\svg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\transformation.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\transformation.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vertex.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\vertex.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\weakproxy.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\weakproxy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\window\\window_info.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\window\\window_info.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_sdl2.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32file.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\win32\\win32file.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\buffer.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\buffer.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\image\\_img_sdl2.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\core\\image\\_img_sdl2.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_debug.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_debug.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\properties.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\properties.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_clock.cp312-win_amd64.pyd',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\_clock.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('pygame\\libjpeg-9.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('pygame\\zlib1.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('pygame\\libogg-0.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('pygame\\libopus-0.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Program Files\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Program Files\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Program Files\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes312.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program Files\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('glew32.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\share\\glew\\bin\\glew32.dll',
+   'BINARY'),
+  ('pygame\\libpng16-16.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('pygame\\SDL2_image.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('pygame\\SDL2_mixer.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('pygame\\SDL2_ttf.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('pygame\\freetype.dll',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.2.13-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Gabriel Programador\\Gabriel-Programador-IDLE-PTBR\\Aprendendo com '
+   'Gustavo Guanabara\\build\\JOKENPO\\base_library.zip',
+   'DATA'),
+  ('kivy_install\\data\\images\\testpattern.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\testpattern.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\console.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\console.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.zip',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-16.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\touchring.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\touchring.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaultshape.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\__init__.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\__init__.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\screen.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\screen.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\_webdebugger.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\_webdebugger.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\inspector.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\inspector.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\cursor.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\cursor.py',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('kivy_install\\data\\images\\cursor.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\cursor.png',
+   'DATA'),
+  ('kivy_install\\modules\\inspector.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\inspector.py',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.vs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\glsl\\header.vs',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\monitor.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\monitor.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('kivy_install\\data\\style.kv',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\style.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-128.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('kivy_install\\modules\\keybinding.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\keybinding.py',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.fs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\glsl\\default.fs',
+   'DATA'),
+  ('kivy_install\\modules\\recorder.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\recorder.py',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\en_US.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('kivy_install\\modules\\screen.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\screen.py',
+   'DATA'),
+  ('kivy_install\\modules\\showborder.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\showborder.py',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de_CH.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\webdebugger.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\webdebugger.py',
+   'DATA'),
+  ('kivy_install\\modules\\_webdebugger.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\_webdebugger.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\recorder.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\recorder.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\images\\background.jpg',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\background.jpg',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\webdebugger.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\webdebugger.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.gif',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwerty.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-24.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwertz.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('kivy_install\\modules\\monitor.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\monitor.py',
+   'DATA'),
+  ('kivy_install\\modules\\joycursor.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\joycursor.py',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-48.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme.atlas',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-512.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\cursor.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\cursor.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\console.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\console.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\joycursor.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\joycursor.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-32.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\es_ES.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\es_ES.json',
+   'DATA'),
+  ('kivy_install\\data\\settings_kivy.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\settings_kivy.json',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\keybinding.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\keybinding.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\showborder.cpython-312.pyc',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\showborder.cpython-312.pyc',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.vs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\glsl\\default.vs',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\glsl\\default.png',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-256.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('kivy_install\\modules\\__init__.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\__init__.py',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\fr_CH.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\de.json',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.fs',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\glsl\\header.fs',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme-0.png',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('kivy_install\\modules\\touchring.py',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\modules\\touchring.py',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\azerty.json',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\kivy\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlingpage.tex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isotech.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\responsive.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat1.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\plain.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\README.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\README.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isopub.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isodia.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\template.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\default.tex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\html4css1.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlepage.tex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\odf_odt\\styles.odt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\minimal.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\template.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\docutils.sty',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isonum.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamso.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\math.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isobox.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat2.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\tuftig.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\template.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\s5defs.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\xelatex.tex',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\pep.css',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1710452442,
+ [('runw.exe',
+   'c:\\Gabriel '
+   'Programador\\Gabriel-Programador-IDLE-PTBR\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Program Files\\Python312\\python312.dll')
