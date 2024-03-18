@@ -30,7 +30,7 @@ Começaremos examinando o tipo mais básico de `if`declaração. Na sua forma 
 
 PYTHON
 
-```
+```py
 if <expr>:
     <statement>
 ```
@@ -48,7 +48,7 @@ Aqui estão vários exemplos desse tipo de `if`declaração:
 
 PYTHON
 
-```
+```py
 >>> x = 0
 >>> y = 5
 
@@ -119,7 +119,7 @@ Assim, uma `if`instrução composta em Python se parece com isto:
 
 PYTHON
 
-```
+```py
  1if <expr>:
  2    <statement>
  3    <statement>
@@ -141,7 +141,7 @@ Considere este arquivo de script `foo.py`:
 
 PYTHON
 
-```
+```py
  1 if 'foo' in ['bar', 'baz', 'qux']:
  2    print('Expression was true')
  3    print('Executing statement in suite')
@@ -154,7 +154,7 @@ A execução `foo.py`produz esta saída:
 
 Prompt de comando do Windows
 
-```
+```py
 C:\> python foo.py
 After conditional
 ```
@@ -167,7 +167,7 @@ Aqui está um arquivo de script mais complicado chamado `blocks.py`:
 
 PYTHON
 
-```
+```py
 # Does line execute?                        Yes    No
 #                                           ---    --
 if 'foo' in ['foo', 'bar', 'baz']:        #  x
@@ -189,7 +189,7 @@ A saída gerada quando este script é executado é mostrada abaixo:
 
 Prompt de comando do Windows
 
-```
+```py
 C:\> python blocks.py
 Outer condition is true
 Between inner conditions
@@ -210,7 +210,7 @@ A tática usada pela maioria das linguagens de programação é designar tokens 
 
 Perl
 
-```
+```py
 # (This is Perl, not Python)
 if(<expr>){
 <statement>;
@@ -255,7 +255,7 @@ Agora você sabe como usar uma `if`instrução para executar condicionalmente u
 
 PYTHON
 
-```
+```py
 if <expr>:
     <statement(s)>
 else:
@@ -268,7 +268,7 @@ Neste exemplo, `x`é menor que `50`, então o primeiro conjunto (linhas 4 a 5)
 
 PYTHON
 
-```
+```py
  1>>> x = 20
  2
  3>>> if x < 50:
@@ -286,7 +286,7 @@ Aqui, por outro lado, `x`é maior que `50`, então o primeiro conjunto é igno
 
 PYTHON
 
-```
+```py
  1>>> x = 120
  2>>>
  3>>> if x < 50:
@@ -304,7 +304,7 @@ Também existe sintaxe para execução de ramificação baseada em diversas alte
 
 PYTHON
 
-```
+```py
 if <expr>:
     <statement(s)>
 elif <expr>:
@@ -320,7 +320,7 @@ Um número arbitrário de `elif`cláusulas pode ser especificado. A `else`cl�
 
 PYTHON
 
-```
+```py
 >>> name = 'Joe'
 >>> if name == 'Fred':
 ...     print('Hello Fred')
@@ -344,7 +344,7 @@ Aqui está uma alternativa possível ao exemplo acima usando o `dict.get()`mét
 
 PYTHON
 
-```
+```py
 >>> names = {
 ...     'Fred': 'Hello Fred',
 ...     'Xander': 'Hello Xander',
@@ -364,7 +364,7 @@ Uma `if`instrução com `elif`cláusulas utiliza avaliação de curto-circuito
 
 PYTHON
 
-```
+```py
 >>> var  # Not defined
 Traceback (most recent call last):
   File "<pyshell#58>", line 1, in <module>
@@ -391,7 +391,7 @@ A segunda expressão contém uma divisão por zero e a terceira faz referência 
 
 PYTHON
 
-```
+```py
 if <expr>:
     <statement>
 ```
@@ -400,7 +400,7 @@ Mas é permitido escrever uma `if`declaração inteira em uma linha. O seguint
 
 PYTHON
 
-```
+```py
 if <expr>: <statement>
 ```
 
@@ -408,7 +408,7 @@ Pode até haver mais de um `<statement>`na mesma linha, separados por ponto e v
 
 PYTHON
 
-```
+```py
 if <expr>: <statement_1>; <statement_2>; ...; <statement_n>
 ```
 
@@ -422,7 +422,7 @@ Python adota a última interpretação. O ponto e vírgula que separa o `<stat
 
 PYTHON
 
-```
+```py
 >>> if 'f' in 'foo': print('1'); print('2'); print('3')
 ...
 1
@@ -436,7 +436,7 @@ Várias instruções também podem ser especificadas na mesma linha como uma cl
 
 PYTHON
 
-```
+```py
 >>> x = 2
 >>> if x == 1: print('foo'); print('bar'); print('baz')
 ... elif x == 2: print('qux'); print('quux')
@@ -460,7 +460,7 @@ Como sempre, é uma questão de gosto. A maioria das pessoas acharia o seguinte
 
 PYTHON
 
-```
+```py
 >>> x = 3
 >>> if x == 1:
 ...     print('foo')
@@ -481,7 +481,7 @@ Porém, se uma `if`declaração for bastante simples, colocar tudo em uma linha
 
 PYTHON
 
-```
+```py
 debugging = True  # Set to True to turn debugging on.
 
     .
@@ -500,7 +500,7 @@ Na sua forma mais simples, a sintaxe da expressão condicional é a seguinte:
 
 PYTHON
 
-```
+```py
 <expr1> if <conditional_expr> else <expr2>
 ```
 
@@ -510,7 +510,7 @@ Observe a ordem não óbvia: a expressão do meio é avaliada primeiro e, com ba
 
 PYTHON
 
-```
+```py
 >>> raining = False
 >>> print("Let's go to the", 'beach' if not raining else 'library')
 Let's go to the beach
@@ -537,7 +537,7 @@ Você poderia usar uma `if`instrução padrão com uma `else`cláusula:
 
 PYTHON
 
-```
+```py
 >>> if a > b:
 ...     m = a
 ... else:
@@ -549,7 +549,7 @@ Mas uma expressão condicional é mais curta e possivelmente mais legível tamb�
 
 PYTHON
 
-```
+```py
 >>> m = a if a > b else b
 ```
 
@@ -559,7 +559,7 @@ No exemplo a seguir, o `+`operador se vincula com mais força do que a express�
 
 PYTHON
 
-```
+```py
 >>> x = y = 40
 
 >>> z = 1 + x if x > y else y + 2
@@ -575,7 +575,7 @@ Se quiser que a expressão condicional seja avaliada primeiro, você precisará 
 
 PYTHON
 
-```
+```py
 >>> x = y = 40
 
 >>> z = 1 + (x if x > y else y) + 2
@@ -596,7 +596,7 @@ Como antes, você pode verificar isso usando termos que gerariam um erro:
 
 PYTHON
 
-```
+```py
 >>> 'foo' if True else 1/0
 'foo'
 >>> 1/0 if False else 'bar'
@@ -609,7 +609,7 @@ Expressões condicionais também podem ser encadeadas, como uma espécie de estr
 
 PYTHON
 
-```
+```py
 >>> s = ('foo' if (x == 1) else
 ...      'bar' if (x == 2) else
 ...      'baz' if (x == 3) else
@@ -632,7 +632,7 @@ Em linguagens onde delimitadores de token são usados para definir blocos, como 
 
 Perl
 
-```
+```py
 # This is not Python
 if(x)
 {
@@ -647,7 +647,7 @@ Considere este roteiro `foo.py`:
 
 PYTHON
 
-```
+```py
 if True:
 
 print('foo')
@@ -657,7 +657,7 @@ Se você tentar executar `foo.py`, você obterá isto:
 
 Prompt de comando do Windows
 
-```
+```py
 C:\> python foo.py
   File "foo.py", line 3
     print('foo')
@@ -669,7 +669,7 @@ A instrução [Python `pass`](https://realpython.com/python-pass/) resolve es
 
 PYTHON
 
-```
+```py
 if True:
     pass
 
@@ -680,7 +680,7 @@ Agora `foo.py`é executado sem erros:
 
 Prompt de comando do Windows
 
-```
+```py
 C:\> python foo.py
 foo
 ```
