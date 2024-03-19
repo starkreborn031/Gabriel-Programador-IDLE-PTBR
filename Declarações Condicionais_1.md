@@ -1,12 +1,12 @@
-## O que é a instrução If do Python?
+# O que é a instrução If do Python?
 
 **A instrução if do Python** é usada para operações de tomada de decisão. Ele contém um corpo de código que é executado somente quando a condição fornecida na instrução if for verdadeira. Se a condição for falsa, a instrução else opcional será executada, contendo algum código para a condição else.
 
 Quando você deseja justificar uma condição enquanto a outra não é verdadeira, você usa a instrução if else do Python.
 
-## Sintaxe da instrução if do Python:
+## Sintaxe da instrução if do Python
 
-**Fluxograma if…else do Python**
+    **Fluxograma if…else do Python**
 
 [![Declaração If do Python](https://www.guru99.com/images/2013/04/if_then_flowchart.png)](https://www.guru99.com/images/2013/04/if_then_flowchart.png)
 
@@ -58,7 +58,7 @@ Aqui ambas as variáveis são iguais (8,8) e a saída do programa é **“x é 
 
 Para corrigir o erro anterior cometido pela “condição else”, podemos usar a instrução **“elif”** . Ao usar a condição “ **elif** ”, você está dizendo ao programa para imprimir a terceira condição ou possibilidade quando a outra condição der errado ou incorreta.
 
-**Exemplo**
+    **Exemplo**
 
 [![Como usar a condição Elif](https://www.guru99.com/images/Pythonnew/Python11.5.jpg)](https://www.guru99.com/images/Pythonnew/Python11.5.jpg)
 
@@ -66,7 +66,7 @@ Para corrigir o erro anterior cometido pela “condição else”, podemos usar 
 * Linha de código 7: a instrução if verifica a condição x<y, que é **falsa** neste caso
 * Linha de código 10: O fluxo de controle do programa vai para a condição elseif. Ele verifica se x==y o que é verdade
 * Linha de código 11: A variável st é definida como “x é **igual a** y”.
-* Linha de código 15: O **fluxo de controle do programa sai da instrução if (não chegará à instrução else). **E imprima a variável st. A saída é “x é igual a y”, o que está correto
+* Linha de código 15: O **fluxo de controle do programa sai da instrução if (não chegará à instrução else).** E imprima a variável st. A saída é “x é igual a y”, o que está correto
 
 ## Como executar instrução condicional com código mínimo
 
@@ -74,7 +74,7 @@ Nesta etapa, veremos como podemos condensar a declaração condicional. Em vez 
 
 Sintaxe
 
-**Exemplo** :
+    **Exemplo**
 
 [![executar instrução condicional com código mínimo](https://www.guru99.com/images/Pythonnew/Python11.6.jpg)](https://www.guru99.com/images/Pythonnew/Python11.6.jpg)
 

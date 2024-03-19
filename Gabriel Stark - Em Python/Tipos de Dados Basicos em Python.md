@@ -1,27 +1,6 @@
-![Tipos de dados básicos em Python](https://files.realpython.com/media/Basic-Data-Types-in-Python_Watermarked.e3dd34457952.jpg)
+# ![Tipos de dados básicos em Python](https://files.realpython.com/media/Basic-Data-Types-in-Python_Watermarked.e3dd34457952.jpg)
 
-# Tipos de dados básicos em Python
-
-Índice
-
-* [Inteiros](https://realpython.com/python-data-types/#integers)
-* [Números de ponto flutuante](https://realpython.com/python-data-types/#floating-point-numbers)
-* [Números complexos](https://realpython.com/python-data-types/#complex-numbers)
-* [Cordas](https://realpython.com/python-data-types/#strings)
-  * [Sequências de escape em strings](https://realpython.com/python-data-types/#escape-sequences-in-strings)
-  * [Cordas brutas](https://realpython.com/python-data-types/#raw-strings)
-  * [Strings com aspas triplas](https://realpython.com/python-data-types/#triple-quoted-strings)
-* [Tipo booleano, contexto booleano e “veracidade”](https://realpython.com/python-data-types/#boolean-type-boolean-context-and-truthiness)
-* [Funções integradas](https://realpython.com/python-data-types/#built-in-functions)
-  * [Matemática](https://realpython.com/python-data-types/#math)
-  * [Conversão de tipo](https://realpython.com/python-data-types/#type-conversion)
-  * [Iteráveis e Iteradores](https://realpython.com/python-data-types/#iterables-and-iterators)
-  * [Tipo de dados compostos](https://realpython.com/python-data-types/#composite-data-type)
-  * [Classes, atributos e herança](https://realpython.com/python-data-types/#classes-attributes-and-inheritance)
-  * [Entrada/Saída](https://realpython.com/python-data-types/#inputoutput)
-  * [Variáveis, referências e escopo](https://realpython.com/python-data-types/#variables-references-and-scope)
-  * [Diversos](https://realpython.com/python-data-types/#miscellaneous)
-* [Conclusão](https://realpython.com/python-data-types/#conclusion)
+## Tipos de dados básicos em Python
 
 ## **Inteiros**
 
@@ -29,7 +8,7 @@ No Python 3, efetivamente não há limite para o tamanho que um valor inteiro po
 
 PYTHON
 
-```
+```Python
 >>> print(123123123123123123123123123123123123123123123123 + 1)
 123123123123123123123123123123123123123123123124
 ```
@@ -38,24 +17,24 @@ Python interpreta uma sequência de dígitos decimais sem qualquer prefixo como 
 
 PYHTON
 
-```
+```Python
 >>> print(10)
 10
 ```
 
 As seguintes strings podem ser anexadas a um valor inteiro para indicar uma base diferente de 10:
 
-| Prefixo                                                                               | Interpretação | Base |
-| ------------------------------------------------------------------------------------- | --------------- | ---- |
-| `0b`(zero + letra minúscula `'b'`)`0B`(zero + letra maiúscula `'B'`) | Binário        | 2    |
-| `0o`(zero + letra minúscula `'o'`)`0O`(zero + letra maiúscula `'O'`) | octal           | 8    |
-| `0x`(zero + letra minúscula `'x'`)`0X`(zero + letra maiúscula `'X'`) | Hexadecimal     | 16   |
+| Prefixo                                                              | Interpretação | Base |
+| -------------------------------------------------------------------- | ------------- | ---- |
+| `0b`(zero + letra minúscula `'b'`)`0B`(zero + letra maiúscula `'B'`) | Binário       | 2    |
+| `0o`(zero + letra minúscula `'o'`)`0O`(zero + letra maiúscula `'O'`) | octal         | 8    |
+| `0x`(zero + letra minúscula `'x'`)`0X`(zero + letra maiúscula `'X'`) | Hexadecimal   | 16   |
 
 Por exemplo:
 
 PYHTON
 
-```
+```Python
 >>> print(0o10)
 8
 
@@ -72,7 +51,7 @@ O tipo subjacente de um inteiro Python, independentemente da base usada para esp
 
 PYHTON
 
-```
+```Python
 >>> type(10)
 <class 'int'>
 >>> type(0o10)
@@ -85,7 +64,7 @@ PYHTON
 
 PYHTON
 
-```
+```Python
 >>> 10
 10
 >>> 0x10
@@ -98,15 +77,13 @@ Muitos dos exemplos nesta série de tutoriais usarão esse recurso.
 
 Observe que isso não funciona dentro de um arquivo de script. Um valor que aparece sozinho em uma linha em um arquivo de script não fará nada.
 
-[Remover propagandas](https://realpython.com/account/join/)
-
 ## Números de ponto flutuante
 
 O `float`tipo em Python designa um número de ponto flutuante. `float`os valores são especificados com um ponto decimal. Opcionalmente, o caractere `e`ou `E`seguido por um número inteiro positivo ou negativo pode ser anexado para especificar [a notação científica](https://en.wikipedia.org/wiki/Scientific_notation) :
 
 PYHTON
 
-```
+```Python
 >>> 4.2
 4.2
 >>> type(4.2)
@@ -129,27 +106,25 @@ PYHTON
 > A seguir estão informações um pouco mais detalhadas sobre como o Python representa números de ponto flutuante internamente. Você pode usar facilmente números de ponto flutuante em Python sem entendê-los até esse nível, então não se preocupe se isso parecer muito complicado. As informações são apresentadas aqui caso você tenha curiosidade.
 >
 > Quase todas as plataformas representam `float`valores Python como valores de “precisão dupla” de 64 bits, de acordo com o padrão [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754_revision) . Nesse caso, o valor máximo que um número de ponto flutuante pode ter é aproximadamente 1,8 ⨉ 10 ^308^ . Python indicará um número maior que o da string `inf`:
->
 > PYHTON
->
-> ```
->>>> 1.79e308
-> 1.79e+308
->>>> 1.8e308
-> inf
-> ```
->
+
+ ```Python
+>>> 1.79e308
+ 1.79e+308
+>>> 1.8e308
+ inf
+ ```
+
 > O mais próximo que um número diferente de zero pode estar de zero é aproximadamente 5,0 ⨉ 10 ^-324^ . Qualquer coisa mais próxima de zero do que isso é efetivamente zero:
->
 > PYHTON
->
-> ```
->>>> 5e-324
-> 5e-324
->>>> 1e-325
-> 0.0
-> ```
->
+
+ ```Python
+>>> 5e-324
+ 5e-324
+>>> 1e-325
+ 0.0
+ ```
+
 > Os números de ponto flutuante são representados internamente como frações binárias (base 2). A maioria das frações decimais não pode ser representada exatamente como frações binárias; portanto, na maioria dos casos, a representação interna de um número de ponto flutuante é uma aproximação do valor real. Na prática, a diferença entre o valor real e o valor representado é muito pequena e normalmente não deve causar problemas significativos.
 
 **Leitura adicional:** para obter informações adicionais sobre representação de ponto flutuante em Python e as possíveis armadilhas envolvidas, consulte [Aritmética de ponto flutuante: problemas e limitações](https://docs.python.org/3.6/tutorial/floatingpoint.html) na documentação do Python.
@@ -160,7 +135,7 @@ PYHTON
 
 PYHTON
 
-```
+```Python
 >>> 2+3j
 (2+3j)
 >>> type(2+3j)
@@ -175,7 +150,7 @@ Literais de string podem ser delimitados usando aspas simples ou duplas. Todos 
 
 PYHTON
 
-```
+```Python
 >>> print("I am a string.")
 I am a string.
 >>> type("I am a string.")
@@ -191,7 +166,7 @@ Uma string em Python pode conter quantos caracteres você desejar. O único lim
 
 PYHTON
 
-```
+```Python
 >>> ''
 ''
 ```
@@ -200,7 +175,7 @@ E se você quiser incluir um caractere de aspas como parte da própria string? 
 
 PYHTON
 
-```
+```Python
 >>> print('This string contains a single quote (') character.')
 SyntaxError: invalid syntax
 ```
@@ -211,7 +186,7 @@ Se você quiser incluir qualquer tipo de caractere de aspas na string, a maneira
 
 PYHTON
 
-```
+```Python
 >>> print("This string contains a single quote (') character.")
 This string contains a single quote (') character.
 
@@ -236,7 +211,7 @@ Você já viu os problemas que pode encontrar ao tentar incluir caracteres de as
 
 PYHTON
 
-```
+```Python
 >>> print('This string contains a single quote (') character.')
 SyntaxError: invalid syntax
 ```
@@ -245,7 +220,7 @@ Especificar uma barra invertida na frente do caractere de aspas em uma string �
 
 PYHTON
 
-```
+```Python
 >>> print('This string contains a single quote (\') character.')
 This string contains a single quote (') character.
 ```
@@ -254,25 +229,25 @@ O mesmo funciona em uma string delimitada por aspas duplas:
 
 PYHTON
 
-```
+```Python
 >>> print("This string contains a double quote (\") character.")
 This string contains a double quote (") character.
 ```
 
 A seguir está uma tabela de sequências de escape que fazem com que o Python suprima a interpretação especial usual de um caractere em uma string:
 
-| ``Sequência de fuga | Interpretação usual de``caractere(s) após barra invertida | Interpretação “escapada”                                                                                               |
-| ---------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `\'`                       | Termina a string com delimitador de abertura de aspas simples       | Caractere literal de aspas simples (`'`)                                                                                 |
-| `\"`                       | Termina a string com delimitador de abertura de aspas duplas        | Caractere literal de aspas duplas (`"`)                                                                                  |
-| `\<newline>`               | Termina a linha de entrada                                          | [A nova linha é ignorada](https://stackoverflow.com/questions/48693600/what-does-the-newline-escape-sequence-mean-in-python) |
-| `\\`                       | Apresenta sequência de escape                                      | Caractere literal de barra invertida (`\`)                                                                               |
+| ``Sequência de fuga | Interpretação usual de``caractere(s) após barra invertida     | Interpretação “escapada”                                                                                                     |
+| ------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `\'`                | Termina a string com delimitador de abertura de aspas simples | Caractere literal de aspas simples (`'`)                                                                                     |
+| `\"`                | Termina a string com delimitador de abertura de aspas duplas  | Caractere literal de aspas duplas (`"`)                                                                                      |
+| `\<newline>`        | Termina a linha de entrada                                    | [A nova linha é ignorada](https://stackoverflow.com/questions/48693600/what-does-the-newline-escape-sequence-mean-in-python) |
+| `\\`                | Apresenta sequência de escape                                 | Caractere literal de barra invertida (`\`)                                                                                   |
 
 Normalmente, um caractere de nova linha encerra a entrada de linha. Portanto, pressionar Enterno meio de uma string fará com que o Python pense que ela está incompleta:
 
 PYHTON
 
-```
+```Python
 >>> print('a
 
 SyntaxError: EOL while scanning string literal
@@ -282,7 +257,7 @@ Para dividir uma string em mais de uma linha, inclua uma barra invertida antes d
 
 PYHTON
 
-```
+```Python
 >>> print('a\
 ... b\
 ... c')
@@ -293,7 +268,7 @@ Para incluir uma barra invertida literal em uma string, escape-a com uma barra i
 
 PYHTON
 
-```
+```Python
 >>> print('foo\\bar')
 foo\bar
 ```
@@ -310,7 +285,7 @@ Em Python (e em quase todas as outras linguagens de computador comuns), um carac
 
 PYHTON
 
-```
+```Python
 >>> print('foo\tbar')
 foo     bar
 ```
@@ -319,26 +294,26 @@ A sequência de escape `\t`faz com que o `t`caractere perca seu significado us
 
 Aqui está uma lista de sequências de escape que fazem com que o Python aplique um significado especial em vez de interpretá-lo literalmente:
 
-| Sequência de fuga | Interpretação “escapada”                                    |
-| ------------------ | --------------------------------------------------------------- |
-| `\a`             | `BEL`Caractere ASCII Bell ( )                                |
-| `\b`             | `BS`Caractere ASCII Backspace ( )                            |
-| `\f`             | `FF`Caractere ASCII Formfeed ( )                             |
-| `\n`             | `LF`Caractere ASCII Linefeed ( )                             |
-| `\N{<name>}`     | Caractere do banco de dados Unicode com determinado `<name>`  |
-| `\r`             | `CR`Caractere ASCII Carriage Return ( )                      |
-| `\t`             | Caractere de guia horizontal ASCII (`TAB`)                    |
-| `\uxxxx`         | Caractere Unicode com valor hexadecimal de 16 bits `xxxx`     |
-| `\Uxxxxxxxx`     | Caractere Unicode com valor hexadecimal de 32 bits `xxxxxxxx` |
-| `\v`             | Caractere de guia vertical ASCII (`VT`)                       |
-| `\ooo`           | Caractere com valor octal `ooo`                               |
-| `\xhh`           | Caractere com valor hexadecimal `hh`                          |
+| Sequência de fuga | Interpretação “escapada”                                      |
+| ----------------- | ------------------------------------------------------------- |
+| `\a`              | `BEL`Caractere ASCII Bell ( )                                 |
+| `\b`              | `BS`Caractere ASCII Backspace ( )                             |
+| `\f`              | `FF`Caractere ASCII Formfeed ( )                              |
+| `\n`              | `LF`Caractere ASCII Linefeed ( )                              |
+| `\N{<name>}`      | Caractere do banco de dados Unicode com determinado `<name>`  |
+| `\r`              | `CR`Caractere ASCII Carriage Return ( )                       |
+| `\t`              | Caractere de guia horizontal ASCII (`TAB`)                    |
+| `\uxxxx`          | Caractere Unicode com valor hexadecimal de 16 bits `xxxx`     |
+| `\Uxxxxxxxx`      | Caractere Unicode com valor hexadecimal de 32 bits `xxxxxxxx` |
+| `\v`              | Caractere de guia vertical ASCII (`VT`)                       |
+| `\ooo`            | Caractere com valor octal `ooo`                               |
+| `\xhh`            | Caractere com valor hexadecimal `hh`                          |
 
 Exemplos:
 
 PYHTON
 
-```
+```Python
 >>> print("a\tb")
 a    b
 >>> print("a\141\x61")
@@ -352,15 +327,13 @@ b
 
 Esse tipo de sequência de escape é normalmente usado para inserir caracteres que não são gerados prontamente no teclado ou que não são facilmente legíveis ou imprimíveis.
 
-[Remover propagandas](https://realpython.com/account/join/)
-
 ### Cordas brutas
 
 Uma string literal bruta é precedida por `r`ou `R`, que especifica que as sequências de escape na string associada não são traduzidas. O caractere de barra invertida é deixado na string:
 
 PYHTON
 
-```
+```Python
 >>> print('foo\nbar')
 foo
 bar
@@ -379,7 +352,7 @@ Existe ainda outra maneira de delimitar strings em Python. Strings com aspas tr
 
 PYHTON
 
-```
+```Python
 >>> print('''This string has a single (') and a double (") quote.''')
 This string has a single (') and a double (") quote.
 ```
@@ -388,7 +361,7 @@ Como novas linhas podem ser incluídas sem escapar delas, isso também permite s
 
 PYHTON
 
-```
+```Python
 >>> print("""This is a
 string that spans
 across several lines""")
@@ -405,7 +378,7 @@ Python 3 fornece um [tipo de dados booleano](https://realpython.com/python-bool
 
 PYHTON
 
-```
+```Python
 >>> type(True)
 <class 'bool'>
 >>> type(False)
@@ -426,113 +399,111 @@ Por enquanto, segue uma breve visão geral, apenas para dar uma ideia do que est
 
 ### Matemática
 
-| Função                                                                                             | Descrição                                                        |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Função                                                                                                | Descrição                                                         |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [`abs()`](https://realpython.com/python-absolute-value/#using-the-built-in-abs-function-with-numbers) | Retorna o valor absoluto de um número                             |
-| `divmod()`                                                                                         | Retorna o quociente e o resto da divisão inteira                  |
+| `divmod()`                                                                                            | Retorna o quociente e o resto da divisão inteira                  |
 | [`max()`](https://realpython.com/python-min-and-max/)                                                 | Retorna o maior dos argumentos ou itens fornecidos em um iterável |
 | [`min()`](https://realpython.com/python-min-and-max/)                                                 | Retorna o menor dos argumentos ou itens fornecidos em um iterável |
-| `pow()`                                                                                            | Eleva um número a uma potência                                   |
-| `round()`                                                                                          | Arredonda um valor de ponto flutuante                              |
+| `pow()`                                                                                               | Eleva um número a uma potência                                    |
+| `round()`                                                                                             | Arredonda um valor de ponto flutuante                             |
 | [`sum()`](https://realpython.com/python-sum-function/)                                                | Soma os itens de um iterável                                      |
-
-[Remover propagandas](https://realpython.com/account/join/)
 
 ### Conversão de tipo
 
 | Função      | Descrição                                                                       |
-| ------------- | --------------------------------------------------------------------------------- |
-| `ascii()`   | Retorna uma string contendo uma representação imprimível de um objeto          |
+| ----------- | ------------------------------------------------------------------------------- |
+| `ascii()`   | Retorna uma string contendo uma representação imprimível de um objeto           |
 | `bin()`     | Converte um número inteiro em uma string binária                                |
-| `bool()`    | Converte um argumento em um valor booleano                                        |
+| `bool()`    | Converte um argumento em um valor booleano                                      |
 | `chr()`     | Retorna a representação em string do caractere fornecido pelo argumento inteiro |
 | `complex()` | Retorna um número complexo construído a partir de argumentos                    |
 | `float()`   | Retorna um objeto de ponto flutuante construído a partir de um número ou string |
-| `hex()`     | Converte um número inteiro em uma string hexadecimal                             |
+| `hex()`     | Converte um número inteiro em uma string hexadecimal                            |
 | `int()`     | Retorna um objeto inteiro construído a partir de um número ou string            |
-| `oct()`     | Converte um número inteiro em uma string octal                                   |
+| `oct()`     | Converte um número inteiro em uma string octal                                  |
 | `ord()`     | Retorna a representação inteira de um caractere                                 |
-| `repr()`    | Retorna uma string contendo uma representação imprimível de um objeto          |
-| `str()`     | Retorna uma versão string de um objeto                                           |
-| `type()`    | Retorna o tipo de um objeto ou cria um novo tipo de objeto                        |
+| `repr()`    | Retorna uma string contendo uma representação imprimível de um objeto           |
+| `str()`     | Retorna uma versão string de um objeto                                          |
+| `type()`    | Retorna o tipo de um objeto ou cria um novo tipo de objeto                      |
 
 ### Iteráveis e Iteradores
 
-| Função                                                    | Descrição                                                             |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [`all()`](https://realpython.com/python-all/)                | Retorna `True`se todos os elementos de um iterável forem verdadeiros |
-| [`any()`](https://realpython.com/any-python/)                | Retorna `True`se algum elemento de um iterável for verdadeiro        |
+| Função                                                       | Descrição                                                             |
+| ------------------------------------------------------------ | --------------------------------------------------------------------- |
+| [`all()`](https://realpython.com/python-all/)                | Retorna `True`se todos os elementos de um iterável forem verdadeiros  |
+| [`any()`](https://realpython.com/any-python/)                | Retorna `True`se algum elemento de um iterável for verdadeiro         |
 | [`enumerate()`](https://realpython.com/python-enumerate/)    | Retorna uma lista de tuplas contendo índices e valores de um iterável |
-| [`filter()`](https://realpython.com/python-filter-function/) | Filtra elementos de um iterável                                        |
-| `iter()`                                                  | Retorna um objeto iterador                                              |
-| [`len()`](https://realpython.com/len-python-function/)       | Retorna o comprimento de um objeto                                      |
-| [`map()`](https://realpython.com/python-map-function/)       | Aplica uma função a cada item de um iterável                         |
-| `next()`                                                  | Recupera o próximo item de um iterador                                 |
-| `range()`                                                 | Gera um intervalo de valores inteiros                                   |
-| `reversed()`                                              | Retorna um iterador reverso                                             |
-| `slice()`                                                 | Retorna um `slice`objeto                                              |
-| [`sorted()`](https://realpython.com/python-sort/)            | Retorna uma lista ordenada de um iterável                              |
-| [`zip()`](https://realpython.com/python-zip-function/)       | Cria um iterador que agrega elementos de iteráveis                     |
+| [`filter()`](https://realpython.com/python-filter-function/) | Filtra elementos de um iterável                                       |
+| `iter()`                                                     | Retorna um objeto iterador                                            |
+| [`len()`](https://realpython.com/len-python-function/)       | Retorna o comprimento de um objeto                                    |
+| [`map()`](https://realpython.com/python-map-function/)       | Aplica uma função a cada item de um iterável                          |
+| `next()`                                                     | Recupera o próximo item de um iterador                                |
+| `range()`                                                    | Gera um intervalo de valores inteiros                                 |
+| `reversed()`                                                 | Retorna um iterador reverso                                           |
+| `slice()`                                                    | Retorna um `slice`objeto                                              |
+| [`sorted()`](https://realpython.com/python-sort/)            | Retorna uma lista ordenada de um iterável                             |
+| [`zip()`](https://realpython.com/python-zip-function/)       | Cria um iterador que agrega elementos de iteráveis                    |
 
 ### Tipo de dados compostos
 
-| Função        | Descrição                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `bytearray()` | Cria e retorna um objeto da[`bytearray`](https://realpython.com/python-strings/#bytearray-objects)classe                            |
+| Função        | Descrição                                                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `bytearray()` | Cria e retorna um objeto da[`bytearray`](https://realpython.com/python-strings/#bytearray-objects)classe                        |
 | `bytes()`     | Cria e retorna um[`bytes`](https://realpython.com/python-strings/#bytes-objects)objeto (semelhante a `bytearray`, mas imutável) |
-| `dict()`      | Cria um[`dict`](https://realpython.com/python-dicts/)objeto                                                                         |
-| `frozenset()` | Cria um[`frozenset`](https://realpython.com/python-sets/#frozen-sets)objeto                                                         |
-| `list()`      | Cria um[`list`](https://realpython.com/python-lists-tuples/)objeto                                                                  |
-| `object()`    | Cria um novo objeto sem características                                                                                           |
-| `set()`       | Cria um[`set`](https://realpython.com/python-sets/)objeto                                                                           |
-| `tuple()`     | Cria um[`tuple`](https://realpython.com/python-lists-tuples/)objeto                                                                 |
+| `dict()`      | Cria um[`dict`](https://realpython.com/python-dicts/)objeto                                                                     |
+| `frozenset()` | Cria um[`frozenset`](https://realpython.com/python-sets/#frozen-sets)objeto                                                     |
+| `list()`      | Cria um[`list`](https://realpython.com/python-lists-tuples/)objeto                                                              |
+| `object()`    | Cria um novo objeto sem características                                                                                         |
+| `set()`       | Cria um[`set`](https://realpython.com/python-sets/)objeto                                                                       |
+| `tuple()`     | Cria um[`tuple`](https://realpython.com/python-lists-tuples/)objeto                                                             |
 
 ### Classes, atributos e herança
 
-| Função                                         | Descrição                                                                         |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| `classmethod()`                                | Retorna um método de classe para uma função                                      |
-| `delattr()`                                    | Exclui um atributo de um objeto                                                     |
-| `getattr()`                                    | Retorna o valor de um atributo nomeado de um objeto                                 |
-| `hasattr()`                                    | Retorna `True`se um objeto possui um determinado atributo                         |
-| `isinstance()`                                 | Determina se um objeto é uma instância de uma determinada classe                  |
-| `issubclass()`                                 | Determina se uma classe é uma subclasse de uma determinada classe                  |
-| `property()`                                   | Retorna um valor de propriedade de uma classe                                       |
-| `setattr()`                                    | Define o valor de um atributo nomeado de um objeto                                  |
+| Função                                            | Descrição                                                                         |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- |
+| `classmethod()`                                   | Retorna um método de classe para uma função                                       |
+| `delattr()`                                       | Exclui um atributo de um objeto                                                   |
+| `getattr()`                                       | Retorna o valor de um atributo nomeado de um objeto                               |
+| `hasattr()`                                       | Retorna `True`se um objeto possui um determinado atributo                         |
+| `isinstance()`                                    | Determina se um objeto é uma instância de uma determinada classe                  |
+| `issubclass()`                                    | Determina se uma classe é uma subclasse de uma determinada classe                 |
+| `property()`                                      | Retorna um valor de propriedade de uma classe                                     |
+| `setattr()`                                       | Define o valor de um atributo nomeado de um objeto                                |
 | [`super()`](https://realpython.com/python-super/) | Retorna um objeto proxy que delega chamadas de método para uma classe pai ou irmã |
 
 ### Entrada/Saída
 
 | Função     | Descrição                                        |
-| ------------ | -------------------------------------------------- |
+| ---------- | ------------------------------------------------ |
 | `format()` | Converte um valor em uma representação formatada |
-| `input()`  | Lê a entrada do console                           |
-| `open()`   | Abre um arquivo e retorna um objeto de arquivo     |
-| `print()`  | Imprime em um fluxo de texto ou no console         |
+| `input()`  | Lê a entrada do console                          |
+| `open()`   | Abre um arquivo e retorna um objeto de arquivo   |
+| `print()`  | Imprime em um fluxo de texto ou no console       |
 
 ### Variáveis, referências e escopo
 
 | Função      | Descrição                                                                                                       |
-| ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| `dir()`     | Retorna uma lista de nomes no escopo local atual ou uma lista de atributos de objetos                             |
+| ----------- | --------------------------------------------------------------------------------------------------------------- |
+| `dir()`     | Retorna uma lista de nomes no escopo local atual ou uma lista de atributos de objetos                           |
 | `globals()` | Retorna um dicionário que representa a tabela de símbolos globais atual                                         |
-| `id()`      | Retorna a identidade de um objeto                                                                                 |
+| `id()`      | Retorna a identidade de um objeto                                                                               |
 | `locals()`  | Atualiza e retorna um dicionário que representa a tabela de símbolos locais atual                               |
 | `vars()`    | Retorna `__dict__`atributo para um [módulo](https://realpython.com/python-modules-packages/) , classe ou objeto |
 
 ### Diversos
 
-| Função                                                | Descrição                                       |
-| ------------------------------------------------------- | ------------------------------------------------- |
-| `callable()`                                          | Retorna `True`se o objeto parecer chamável     |
-| `compile()`                                           | Compila a fonte em um código ou objeto AST       |
-| [`eval()`](https://realpython.com/python-eval-function/) | Avalia uma expressão Python                      |
-| `exec()`                                              | Implementa execução dinâmica de código Python |
-| `hash()`                                              | Retorna o valor hash de um objeto                 |
-| `help()`                                              | Invoca o sistema de ajuda integrado               |
-| `memoryview()`                                        | Retorna um objeto de visualização de memória   |
-| `staticmethod()`                                      | Retorna um método estático para uma função    |
-| `__import__()`                                        | Invocado pela `import`declaração              |
+| Função                                                   | Descrição                                     |
+| -------------------------------------------------------- | --------------------------------------------- |
+| `callable()`                                             | Retorna `True`se o objeto parecer chamável    |
+| `compile()`                                              | Compila a fonte em um código ou objeto AST    |
+| [`eval()`](https://realpython.com/python-eval-function/) | Avalia uma expressão Python                   |
+| `exec()`                                                 | Implementa execução dinâmica de código Python |
+| `hash()`                                                 | Retorna o valor hash de um objeto             |
+| `help()`                                                 | Invoca o sistema de ajuda integrado           |
+| `memoryview()`                                           | Retorna um objeto de visualização de memória  |
+| `staticmethod()`                                         | Retorna um método estático para uma função    |
+| `__import__()`                                           | Invocado pela `import`declaração              |
 
 ## Conclusão
 

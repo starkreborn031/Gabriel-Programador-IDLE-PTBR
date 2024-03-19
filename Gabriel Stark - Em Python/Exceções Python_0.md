@@ -1,6 +1,6 @@
-![Uma introdução às exceções do Python](https://files.realpython.com/media/Python_Exceptions_Watermark.47f814fbeced.jpg)
+# ![Uma introdução às exceções do Python](https://files.realpython.com/media/Python_Exceptions_Watermark.47f814fbeced.jpg)
 
-# Exceções Python: uma introdução
+## Exceções Python: uma introdução
 
 Assista agoraEste tutorial tem um curso em vídeo relacionado criado pela equipe Real Python. Assista junto com o tutorial escrito para aprofundar sua compreensão: [**Criando e Manipulando Exceções Python**](https://realpython.com/courses/raising-handling-exceptions/)
 
@@ -21,7 +21,7 @@ Você conhecerá essas palavras-chave percorrendo um exemplo prático de como li
 
 Rastreamento Python
 
-```
+```Python
 >>> print(0 / 0))
   File "<stdin>", line 1
 print(0 / 0))
@@ -33,7 +33,7 @@ A seta indica onde o analisador encontrou o **erro de sintaxe** . Além disso
 
 PYTHON
 
-```
+```Python
 >>> print(0 / 0)
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
@@ -54,7 +54,7 @@ Você pode até complementar a declaração com uma mensagem personalizada. Sup
 
 PYTHON
 
-```
+```Python
 number = 10
 if number > 5:
     raise Exception(f"The number should not exceed 5. ({number=})")
@@ -67,7 +67,7 @@ Ao executar `low.py`, você obterá a seguinte saída:
 
 Rastreamento Python
 
-```
+```Python
 Traceback (most recent call last):
   File "./low.py", line 3, in <module>
 raise Exception(f"The number should not exceed 5. ({number=})")
@@ -94,7 +94,7 @@ Revisite seu pequeno script, `low.py`da [seção anterior](https://realpython.
 
 PYTHON
 
-```
+```Python
 number = 1
 if number > 5:
     raise Exception(f"The number should not exceed 5. ({number=})")
@@ -105,7 +105,7 @@ Supondo que você lidará com essa restrição com segurança em seu sistema de 
 
 PYTHON
 
-```
+```Python
 number = 1
 assert (number < 5), f"The number should not exceed 5. ({number=})"
 print(number)
@@ -115,7 +115,7 @@ Se o `number`seu programa estiver abaixo de `5`, a asserção será aprovada e
 
 PYTHON
 
-```
+```Python
 number = 10
 assert (number < 5), f"The number should not exceed 5. ({number=})"
 print(number)
@@ -125,7 +125,7 @@ Nesse caso, o Python gera um `AssertionError`que inclui a mensagem que você pa
 
 Concha
 
-```
+```Python
 $ pythonlow.py
 Traceback (most recent call last):
   File "./low.py", line 2, in <module>
@@ -142,7 +142,7 @@ No entanto, você não deve confiar em asserções para capturar condições cru
 
 Concha
 
-```
+```Python
 $ python-Olow.py
 10
 ```
@@ -167,7 +167,7 @@ A função a seguir pode ajudá-lo a entender o bloco `try`e `except`:
 
 PYTHON
 
-```
+```Python
 def linux_interaction():
     import sys
     if "linux" not in sys.platform:
@@ -187,7 +187,7 @@ Você pode atribuir um a à função `try`adicionando o seguinte código:
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -200,8 +200,8 @@ A maneira como você lidou com o erro aqui foi distribuindo um arquivo `pass`.�
 
 Concha
 
-```
-$ pythonlinux_interaction.py
+```Python
+$pythonlinux_interaction.py
 ```
 
 Você não recebeu nada em resposta. O bom aqui é que seu programa não travou. Mas deixar uma exceção que ocorreu passar silenciosamente é uma má prática. Você deve sempre pelo menos saber e [registrar](https://realpython.com/python-logging/) se ocorreu algum tipo de exceção ao executar seu código.
@@ -210,7 +210,7 @@ Para isso, você pode mudar `pass`para algo que gere uma mensagem informativa:
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -223,7 +223,7 @@ Ao executar este código em uma máquina macOS ou Windows, você verá a mensage
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Linux function wasn't executed.
 ```
@@ -236,7 +236,7 @@ O código a seguir é um exemplo em que você captura `RuntimeError`e envia ess
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -252,7 +252,7 @@ Executar esta função em uma máquina macOS ou Windows resulta no seguinte:
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Function can only run on Linux systems.
 The linux_interaction() function wasn't executed.
@@ -266,7 +266,7 @@ Aqui está outro exemplo em que você abre um arquivo e usa uma exceção integr
 
 PYTHON
 
-```
+```Python
 try:
     with open("file.log") as file:
         read_data = file.read()
@@ -278,7 +278,7 @@ Se `file.log`não existir, este bloco de código produzirá o seguinte:
 
 Concha
 
-```
+```Python
 $ pythonopen_file.py
 Couldn't open file.log
 ```
@@ -297,7 +297,7 @@ Você deseja lidar com a situação em que o Python não consegue encontrar o ar
 
 PYTHON
 
-```
+```Python
 try:
     with open("file.log") as file:
         read_data = file.read()
@@ -309,7 +309,7 @@ Neste caso, se `file.log`não existir, a saída será a seguinte:
 
 Concha
 
-```
+```Python
 $ pythonopen_file.py
 [Errno 2] No such file or directory: 'file.log'
 ```
@@ -324,7 +324,7 @@ Observe o código a seguir. Aqui, você primeiro chama `linux_interaction()`e 
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -342,7 +342,7 @@ Se você executar este código em uma máquina macOS ou Windows, verá o seguint
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Function can only run on Linux systems.
 Linux linux_interaction() function wasn't executed
@@ -352,7 +352,7 @@ Dentro da `try`cláusula, você encontrou uma exceção imediatamente e não ch
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 [Errno 2] No such file or directory: 'file.log'
 ```
@@ -378,7 +378,7 @@ Veja o exemplo a seguir:
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -393,7 +393,7 @@ Se você executasse este código em um sistema Linux, a saída seria a seguinte:
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Doing Linux things.
 Doing even more Linux things.
@@ -403,7 +403,7 @@ Como o programa não encontrou *nenhuma* exceção, o Python executou o códig
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Function can only run on Linux systems.
 ```
@@ -414,7 +414,7 @@ Observe que estruturar seu código assim é diferente de apenas adicionar a cham
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -428,7 +428,7 @@ Se você não aninhar a `print()`chamada na `else`cláusula, ela será executa
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Function can only run on Linux systems.
 Doing even more Linux things.
@@ -440,7 +440,7 @@ Você também pode criar um bloco `try`… aninhado `except`dentro da `else`c
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -459,7 +459,7 @@ Se você executasse este código em uma máquina Linux, obteria o seguinte resul
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Doing Linux things.
 [Errno 2] No such file or directory: 'file.log'
@@ -477,7 +477,7 @@ Dê uma olhada no exemplo a seguir:
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -498,7 +498,7 @@ Neste código, Python executará tudo na `finally`cláusula. Não importa se v
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Function can only run on Linux systems.
 Cleaning up, irrespective of any exceptions.
@@ -508,7 +508,7 @@ Observe que o código dentro do `finally`bloco será executado independentement
 
 PYTHON
 
-```
+```Python
 # ...
 
 try:
@@ -521,7 +521,7 @@ Você simplificou o código de exemplo acima, mas `linux_interaction()`ainda ge
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Cleaning up, irrespective of any exceptions.
 Traceback (most recent call last):
@@ -541,7 +541,7 @@ Python simplifica a criação de tipos de exceção personalizados, herdando de 
 
 PYTHON
 
-```
+```Python
 def linux_interaction():
     import sys
     if "linux" not in sys.platform:
@@ -555,7 +555,7 @@ Usar a [`RuntimeError`](https://docs.python.org/3/library/exceptions.html#Runti
 
 PYTHON
 
-```
+```Python
 class PlatformException(Exception):
 """Incompatible platform."""
 
@@ -574,7 +574,7 @@ Agora que você definiu a exceção personalizada, você pode criá-la como qual
 
 PYTHON
 
-```
+```Python
 class PlatformException(Exception):
 """Incompatible platform."""
 
@@ -591,7 +591,7 @@ Se você agora chamar `linux_interaction()`o macOS ou o Windows, verá que o Py
 
 Concha
 
-```
+```Python
 $ pythonlinux_interaction.py
 Traceback (most recent call last):
   ...

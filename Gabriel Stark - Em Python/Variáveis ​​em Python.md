@@ -1,36 +1,55 @@
-# **Atribuição de Variável**
+# ![Variáveis em Python](https://files.realpython.com/media/Variables-in-Python_Watermarked.3868fbf92e1d.jpg)
+
+## Variáveis em Python
+
+Assista agora: Este tutorial tem um curso em vídeo relacionado criado pela equipe Real Python. Assista junto com o tutorial escrito para aprofundar sua compreensão: [**Variáveis em Python**](https://realpython.com/courses/variables-python/)
+
+No tutorial anterior sobre [tipos de dados básicos em Python](https://realpython.com/python-data-types/) , você viu como os valores de vários tipos de dados Python podem ser criados. Mas até agora, todos os valores mostrados foram valores literais ou constantes:
+
+PYTHON
+
+```PY
+>>> print(5.3)
+5.3
+```
+
+Se você estiver escrevendo um código mais complexo, seu programa precisará de dados que podem mudar à medida que a execução do programa prossegue.
+
+**Aqui está o que você aprenderá neste tutorial:** Você aprenderá como cada item de dados em um programa Python pode ser descrito pelo termo abstrato **object** e como manipular objetos usando nomes simbólicos chamados **variáveis** .
+
+## Atribuição de Variável
 
 Pense em uma variável como um nome associado a um objeto específico. Em Python, as variáveis não precisam ser declaradas ou definidas antecipadamente, como acontece em muitas outras linguagens de programação. Para criar uma variável, basta atribuir um valor a ela e começar a usá-la. A atribuição é feita com um único sinal de igual ( `=`):
 
-Python
+PYTHON
 
-| 1   | >>> n = 300 |
-| --- | ----------- |
-|     |             |
+```PY
+>>> n = 300
+```
 
 Isso é lido ou interpretado como “ `n`é atribuído o valor `300`”. Feito isso, `n`pode ser usado em uma instrução ou expressão, e seu valor será substituído:
 
-Python
+PYTHON
 
-```Python
+```PY
 >>> print(n)
 300
 ```
 
 Assim como um valor literal pode ser exibido diretamente do prompt do interpretador em uma sessão REPL sem a necessidade de [`print()`](https://realpython.com/python-print/), uma variável também pode:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> n
 300
 ```
 
 Posteriormente, se você alterar o valor de `n`e usá-lo novamente, o novo valor será substituído:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> n = 1000
 >>> print(n)
 1000
@@ -40,9 +59,9 @@ Python
 
 Python também permite atribuição encadeada, o que possibilita atribuir o mesmo valor a diversas variáveis simultaneamente:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> a = b = c = 300
 >>> print(a, b, c)
 300 300 300
@@ -56,9 +75,9 @@ Em muitas linguagens de programação, as variáveis são digitadas estaticament
 
 Variáveis em Python não estão sujeitas a esta restrição. Em Python, uma variável pode receber um valor de um tipo e depois reatribuir um valor de um tipo diferente:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> var = 23.5
 >>> print(var)
 23.5
@@ -76,9 +95,9 @@ Python é uma [linguagem altamente orientada a objetos](https://realpython.com/
 
 Considere este código:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> print(300)
 300
 ```
@@ -91,9 +110,9 @@ Ao receber a declaração `print(300)`, o intérprete faz o seguinte:
 
 `type()`Você pode ver que um objeto inteiro é criado usando a função integrada :
 
-Python
+PYTHON
 
-```Python
+```py
 >>> type(300)
 <class 'int'>
 ```
@@ -102,9 +121,9 @@ Uma variável Python é um nome simbólico que é uma referência ou [ponteiro]
 
 Por exemplo:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> n = 300
 ```
 
@@ -115,9 +134,9 @@ Atribuição de Variável
 
 O código a seguir verifica se `n`aponta para um objeto inteiro:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> print(n)
 300
 >>> type(n)
@@ -126,9 +145,9 @@ Python
 
 Agora considere a seguinte afirmação:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> m = n
 ```
 
@@ -139,9 +158,9 @@ Múltiplas referências a um único objeto
 
 A seguir, suponha que você faça isso:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> m = 400
 ```
 
@@ -152,9 +171,9 @@ Referências a objetos separados
 
 Por último, suponha que esta instrução seja executada a seguir:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> n = "foo"
 ```
 
@@ -169,15 +188,17 @@ Os tutoriais desta série ocasionalmente se referirão à vida útil de um objet
 
 Quando o número de referências a um objeto cai para zero, ele não está mais acessível. Nesse ponto, sua vida útil acabou. O Python eventualmente perceberá que está inacessível e recuperará a memória alocada para que possa ser usada para outra coisa. Na linguagem da informática, esse processo é conhecido como [coleta de lixo](https://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29) .
 
+[Remover propagandas](https://realpython.com/account/join/)
+
 ## Identidade do Objeto
 
 Em Python, cada objeto criado recebe um número que o identifica exclusivamente. É garantido que dois objetos não terão o mesmo identificador durante qualquer período em que seus tempos de vida se sobreponham. Uma vez que a contagem de referência de um objeto cai a zero e ele é coletado como lixo, como aconteceu com o `300`objeto acima, seu número de identificação fica disponível e pode ser usado novamente.
 
 A função interna do Python `id()`retorna o identificador inteiro de um objeto. Usando a `id()`função, você pode verificar se duas variáveis realmente apontam para o mesmo objeto:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> n = 300
 >>> m = n
 >>> id(n)
@@ -196,9 +217,9 @@ Após a atribuição `m = n`, `m`e `n`ambos apontam para o mesmo objeto, conf
 >
 > Pelo que você sabe agora sobre atribuição de variáveis e referências a objetos em Python, o seguinte provavelmente não irá surpreendê-lo:
 >
-> Python
+> PYTHON
 
- ```Python
+ ```py
 >>> m = 300
 >>> n = 300
 >>> id(m)
@@ -208,10 +229,12 @@ Após a atribuição `m = n`, `m`e `n`ambos apontam para o mesmo objeto, conf
  ```
 
 > Com a instrução `m = 300`, Python cria um objeto inteiro com o valor `300`e define `m`como referência a ele. `n`é então atribuído de forma semelhante a um objeto inteiro com valor `300`- mas não ao mesmo objeto. Assim, eles possuem identidades diferentes, o que você pode verificar a partir dos valores retornados por `id()`.
+>
 > Mas considere isto:
-> Python
-
- ```Python
+>
+> PYTHON
+>
+ ```py
 >>> m = 30
 >>> n = 30
 >>> id(m)
@@ -233,9 +256,9 @@ Oficialmente, os nomes de variáveis em Python podem ter qualquer comprimento e 
 
 Por exemplo, todos os itens a seguir são nomes de variáveis válidos:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> name = "Bob"
 >>> Age = 54
 >>> has_W2 = True
@@ -245,18 +268,18 @@ Bob 54 True
 
 Mas este não é, porque o nome de uma variável não pode começar com um dígito:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> 1099_filed = False
 SyntaxError: invalid token
 ```
 
 Observe que o caso é significativo. Letras minúsculas e maiúsculas não são iguais. O uso do caractere [sublinhado](https://realpython.com/python-double-underscore/) também é significativo. Cada um dos itens a seguir define uma variável diferente:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> age = 1
 >>> Age = 2
 >>> aGe = 3
@@ -270,13 +293,13 @@ Python
 1 2 3 4 5 6 7 8
 ```
 
-Não há nada que impeça você de criar duas variáveis diferentes no mesmo programa chamado `age`and `Age`, ou nesse caso `agE`. Mas provavelmente é imprudente. Certamente seria provável que confundisse qualquer um que tentasse ler seu código, e até mesmo você mesmo, depois de ficar longe dele por algum tempo.
+Não há nada que impeça você de criar duas variáveis diferentes no mesmo programa chamado `age`and `Age`, ou nesse caso `agE`. Mas provavelmente é imprudente. Certamente seria provável que confundisse qualquer um que tentasse ler seu código, e até você mesmo, depois de ficar longe dele por algum tempo.
 
 Vale a pena dar a uma variável um nome que seja descritivo o suficiente para deixar claro para que ela está sendo usada. Por exemplo, suponha que você esteja contando o número de pessoas que se formaram na faculdade. Você poderia escolher qualquer um dos seguintes:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> numberofcollegegraduates = 2500
 >>> NUMBEROFCOLLEGEGRADUATES = 2500
 >>> numberOfCollegeGraduates = 2500
@@ -331,9 +354,9 @@ Você pode ver esta lista a qualquer momento digitando `help("keywords")`no int
 
 Tentar criar uma variável com o mesmo nome de qualquer palavra reservada resulta em erro:
 
-Python
+PYTHON
 
-```Python
+```py
 >>> for = 3
 SyntaxError: invalid syntax
 ```
@@ -343,5 +366,3 @@ SyntaxError: invalid syntax
 Este tutorial abordou os fundamentos das **variáveis** Python , incluindo referências e identidade de objetos e nomenclatura de identificadores Python.
 
 Agora você tem um bom entendimento de alguns tipos de dados do Python e sabe como criar variáveis que fazem referência a objetos desses tipos.
-
-A seguir, você verá como combinar objetos de dados em **expressões** que envolvem diversas **operações** .

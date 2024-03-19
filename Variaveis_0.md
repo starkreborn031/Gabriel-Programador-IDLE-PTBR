@@ -14,8 +14,9 @@ Como você provavelmente suspeita, um tipo de dados é um tipo de dados. Mas é
 
 Você já aprendeu como usar variáveis como:
 
-| 1 | **x** = **int.**(**input**(**"Type a number to start the range:"**)) |
-| - | -------------------------------------------------------------------------------------------- |
+| 1   | **x** = **int.**(**input**(**"Type a number to start the range:"**)) |
+| --- | -------------------------------------------------------------------- |
+|     |                                                                      |
 
 A instrução acima define a variável x como um número inteiro da entrada obtida de um usuário. Nesse caso, a variável x armazenará um número inteiro que é um tipo de dados específico. Por ser armazenado como um tipo de dados específico, o Python saberá o que pode ser feito com ele. Sem tipos de dados em jogo, você poderia definir uma variável, mas o Python não saberia o que fazer com ela. Por exemplo, se você não tivesse tipos de dados, você poderia definir x = 2 e y = 10, mas se você tentasse adicioná-los com uma função, o Python não saberia que eram números, então não seria capaz para fazer o cálculo.
 

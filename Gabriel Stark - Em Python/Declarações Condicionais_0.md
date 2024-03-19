@@ -1,6 +1,6 @@
-![Declarações condicionais em Python](https://files.realpython.com/media/Conditional-Statements-in-Python_Watermarked.b6b7d30ff62b.jpg)
+# ![Declarações condicionais em Python](https://files.realpython.com/media/Conditional-Statements-in-Python_Watermarked.b6b7d30ff62b.jpg)
 
-# Declarações condicionais em Python
+## Declarações condicionais em Python
 
 Assista agoraEste tutorial tem um curso em vídeo relacionado criado pela equipe Real Python. Assista junto com o tutorial escrito para aprofundar sua compreensão: [**Declarações Condicionais em Python (if/elif/else)**](https://realpython.com/courses/python-conditional-statements/)
 
@@ -30,7 +30,7 @@ Começaremos examinando o tipo mais básico de `if`declaração. Na sua forma 
 
 PYTHON
 
-```
+```Python
 if <expr>:
     <statement>
 ```
@@ -48,7 +48,7 @@ Aqui estão vários exemplos desse tipo de `if`declaração:
 
 PYTHON
 
-```
+```Python
 >>> x = 0
 >>> y = 5
 
@@ -119,7 +119,7 @@ Assim, uma `if`instrução composta em Python se parece com isto:
 
 PYTHON
 
-```
+```Python
  1if <expr>:
  2    <statement>
  3    <statement>
@@ -141,7 +141,7 @@ Considere este arquivo de script `foo.py`:
 
 PYTHON
 
-```
+```Python
  1 if 'foo' in ['bar', 'baz', 'qux']:
  2    print('Expression was true')
  3    print('Executing statement in suite')
@@ -154,7 +154,7 @@ A execução `foo.py`produz esta saída:
 
 Prompt de comando do Windows
 
-```
+```Python
 C:\> python foo.py
 After conditional
 ```
@@ -167,7 +167,7 @@ Aqui está um arquivo de script mais complicado chamado `blocks.py`:
 
 PYTHON
 
-```
+```Python
 # Does line execute?                        Yes    No
 #                                           ---    --
 if 'foo' in ['foo', 'bar', 'baz']:        #  x
@@ -189,7 +189,7 @@ A saída gerada quando este script é executado é mostrada abaixo:
 
 Prompt de comando do Windows
 
-```
+```Python
 C:\> python blocks.py
 Outer condition is true
 Between inner conditions
@@ -200,8 +200,6 @@ After outer condition
 
 **Nota:** Caso você esteja se perguntando, a regra off-side é o motivo da necessidade da nova linha extra ao inserir instruções multilinhas em uma sessão REPL. Caso contrário, o intérprete não terá como saber que a última instrução do bloco foi inserida.
 
-[Remover propagandas](https://realpython.com/account/join/)
-
 ### O que outras línguas fazem?
 
 Talvez você esteja curioso para saber quais são as alternativas. Como os blocos são definidos em idiomas que não aderem à regra do impedimento?
@@ -210,7 +208,7 @@ A tática usada pela maioria das linguagens de programação é designar tokens 
 
 Perl
 
-```
+```Python
 # (This is Perl, not Python)
 if(<expr>){
 <statement>;
@@ -255,7 +253,7 @@ Agora você sabe como usar uma `if`instrução para executar condicionalmente u
 
 PYTHON
 
-```
+```Python
 if <expr>:
     <statement(s)>
 else:
@@ -268,7 +266,7 @@ Neste exemplo, `x`é menor que `50`, então o primeiro conjunto (linhas 4 a 5)
 
 PYTHON
 
-```
+```Python
  1>>> x = 20
  2
  3>>> if x < 50:
@@ -286,7 +284,7 @@ Aqui, por outro lado, `x`é maior que `50`, então o primeiro conjunto é igno
 
 PYTHON
 
-```
+```Python
  1>>> x = 120
  2>>>
  3>>> if x < 50:
@@ -304,7 +302,7 @@ Também existe sintaxe para execução de ramificação baseada em diversas alte
 
 PYTHON
 
-```
+```Python
 if <expr>:
     <statement(s)>
 elif <expr>:
@@ -320,7 +318,7 @@ Um número arbitrário de `elif`cláusulas pode ser especificado. A `else`cl�
 
 PYTHON
 
-```
+```Python
 >>> name = 'Joe'
 >>> if name == 'Fred':
 ...     print('Hello Fred')
@@ -344,7 +342,7 @@ Aqui está uma alternativa possível ao exemplo acima usando o `dict.get()`mét
 
 PYTHON
 
-```
+```Python
 >>> names = {
 ...     'Fred': 'Hello Fred',
 ...     'Xander': 'Hello Xander',
@@ -364,7 +362,7 @@ Uma `if`instrução com `elif`cláusulas utiliza avaliação de curto-circuito
 
 PYTHON
 
-```
+```Python
 >>> var  # Not defined
 Traceback (most recent call last):
   File "<pyshell#58>", line 1, in <module>
@@ -391,7 +389,7 @@ A segunda expressão contém uma divisão por zero e a terceira faz referência 
 
 PYTHON
 
-```
+```Python
 if <expr>:
     <statement>
 ```
@@ -400,7 +398,7 @@ Mas é permitido escrever uma `if`declaração inteira em uma linha. O seguint
 
 PYTHON
 
-```
+```Python
 if <expr>: <statement>
 ```
 
@@ -408,7 +406,7 @@ Pode até haver mais de um `<statement>`na mesma linha, separados por ponto e v
 
 PYTHON
 
-```
+```Python
 if <expr>: <statement_1>; <statement_2>; ...; <statement_n>
 ```
 
@@ -422,7 +420,7 @@ Python adota a última interpretação. O ponto e vírgula que separa o `<stat
 
 PYTHON
 
-```
+```Python
 >>> if 'f' in 'foo': print('1'); print('2'); print('3')
 ...
 1
@@ -436,7 +434,7 @@ Várias instruções também podem ser especificadas na mesma linha como uma cl
 
 PYTHON
 
-```
+```Python
 >>> x = 2
 >>> if x == 1: print('foo'); print('bar'); print('baz')
 ... elif x == 2: print('qux'); print('quux')
@@ -460,7 +458,7 @@ Como sempre, é uma questão de gosto. A maioria das pessoas acharia o seguinte
 
 PYTHON
 
-```
+```Python
 >>> x = 3
 >>> if x == 1:
 ...     print('foo')
@@ -481,7 +479,7 @@ Porém, se uma `if`declaração for bastante simples, colocar tudo em uma linha
 
 PYTHON
 
-```
+```Python
 debugging = True  # Set to True to turn debugging on.
 
     .
@@ -500,7 +498,7 @@ Na sua forma mais simples, a sintaxe da expressão condicional é a seguinte:
 
 PYTHON
 
-```
+```Python
 <expr1> if <conditional_expr> else <expr2>
 ```
 
@@ -510,7 +508,7 @@ Observe a ordem não óbvia: a expressão do meio é avaliada primeiro e, com ba
 
 PYTHON
 
-```
+```Python
 >>> raining = False
 >>> print("Let's go to the", 'beach' if not raining else 'library')
 Let's go to the beach
@@ -537,7 +535,7 @@ Você poderia usar uma `if`instrução padrão com uma `else`cláusula:
 
 PYTHON
 
-```
+```PYTHON
 >>> if a > b:
 ...     m = a
 ... else:
@@ -549,7 +547,7 @@ Mas uma expressão condicional é mais curta e possivelmente mais legível tamb�
 
 PYTHON
 
-```
+```PYTHON
 >>> m = a if a > b else b
 ```
 
@@ -559,7 +557,7 @@ No exemplo a seguir, o `+`operador se vincula com mais força do que a express�
 
 PYTHON
 
-```
+```PYTHON
 >>> x = y = 40
 
 >>> z = 1 + x if x > y else y + 2
@@ -575,7 +573,7 @@ Se quiser que a expressão condicional seja avaliada primeiro, você precisará 
 
 PYTHON
 
-```
+```PYTHON
 >>> x = y = 40
 
 >>> z = 1 + (x if x > y else y) + 2
@@ -596,7 +594,7 @@ Como antes, você pode verificar isso usando termos que gerariam um erro:
 
 PYTHON
 
-```
+```PYTHON
 >>> 'foo' if True else 1/0
 'foo'
 >>> 1/0 if False else 'bar'
@@ -609,7 +607,7 @@ Expressões condicionais também podem ser encadeadas, como uma espécie de estr
 
 PYTHON
 
-```
+```PYTHON
 >>> s = ('foo' if (x == 1) else
 ...      'bar' if (x == 2) else
 ...      'baz' if (x == 3) else
@@ -622,8 +620,6 @@ PYTHON
 
 Não está claro se isso tem alguma vantagem significativa sobre a instrução // correspondente , `if`mas é Python sintaticamente correto.`elif``else`
 
-[Remover propagandas](https://realpython.com/account/join/)
-
 ## `pass`A declaração Python
 
 Ocasionalmente, você pode querer escrever o que é chamado de stub de código: um espaço reservado para onde você eventualmente colocará um bloco de código que ainda não implementou.
@@ -632,7 +628,7 @@ Em linguagens onde delimitadores de token são usados para definir blocos, como 
 
 Perl
 
-```
+```PYTHON
 # This is not Python
 if(x)
 {
@@ -647,7 +643,7 @@ Considere este roteiro `foo.py`:
 
 PYTHON
 
-```
+```PYTHON
 if True:
 
 print('foo')
@@ -657,7 +653,7 @@ Se você tentar executar `foo.py`, você obterá isto:
 
 Prompt de comando do Windows
 
-```
+```PYTHON
 C:\> python foo.py
   File "foo.py", line 3
     print('foo')
@@ -669,7 +665,7 @@ A instrução [Python `pass`](https://realpython.com/python-pass/) resolve es
 
 PYTHON
 
-```
+```PYTHON
 if True:
     pass
 
@@ -680,7 +676,7 @@ Agora `foo.py`é executado sem erros:
 
 Prompt de comando do Windows
 
-```
+```PYTHON
 C:\> python foo.py
 foo
 ```
