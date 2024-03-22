@@ -1,8 +1,6 @@
 """Async usage
 Simply import AsyncOpenAI instead of OpenAI and use await with each API call: """
 
-
-
 import os
 import asyncio
 from openai import AsyncOpenAI
@@ -26,5 +24,4 @@ async def main() -> None:
 
 
 asyncio.run(main())
-
 
