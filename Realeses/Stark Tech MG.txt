@@ -1,0 +1,29 @@
+Quero fazer um programa para minha empresa, sou TECNICO em INFORMATICA quero cadastrar os meus clientes e os Computadores dos meus clientes.
+Quero que voce use  as bibliotecas que estiverem disponiveis ao seu alcance, pode escolher o layout que achar melhor.
+Quero que fique bonito e organizado e centralizado, com um cabeçalho com o nome da minha empresa ''STARK TECH MG''. 
+Faça de maneira Cautelosa passo a passo colocando em aba separada por, informações do cliente, Informações do dispositivo, e ORÇAMENTO.
+Eu estou usando o VS CODE, fazer em Python.
+
+[1] (ABA DE CLIENTE)    Campo para preencher com NOME DO CLIENTE, CPF, ENDEREÇO, TELEFONE, DATA DE ENTRADA, DATA PREVISTA.
+   [-]	Quero que cada cadastro tenha Numero de pedido GERADO no final, esse numero vai Aumentar de acordo com numero de clientes de forma AUTOMATICA.
+   [-]	Quero um campo com  data e hora que vai em baixo da assinatura do tecnico, crie um campo no final do PDF usando uma linha ASSINATURA ao terminar de preencher o CADASTRO.
+   [-] 	No campo de TELEFONE, CPF e DATAS, coloque Ifens, Barras e parenteses automaticos.
+   
+[2] (ABA DE ORÇAMENTO)	Tem que ter campos para eu prencher Valores de serviços prestados, Valores de Peças, Descrição do que foi feito e porcentagens de desconto tambem.
+   [-]	Preciso que tenha uma ABA apenas para o Setor de Valores e Orçamento.
+   [-]  LOCAL para VALOR / DESCONTO / OBSERVAÇÃO Tem que ficar em uma parte separada por assunto ORÇAMENTO
+   [-]  Lugares que serao inseridos VALORES financeiros tem que ter R$ AUTOMATICO
+
+[3] (ABA DO DISPOSITIVO DO CLIENTE) Campo distinto para DESCRIÇÃO do dispositivo do cliente, PLACA MAE, PLACA DE VIDEO, PROCESSADOR, MEMORIA, FONTE, SSD, HDD.
+   [-]  Caixa de informação para eu marcar de é PC GAMER, PC BASICO, NOTEBOOK
+   [-]	Pedir item por item do Computador caso DESKTOP/NOTEBOOK/PC GAMER.
+   [-]	Tem que ter campos de Observação.
+   [-]	Tem que ter um campo para o preencher com o relato do problema do dispositivo do cliente.
+
+[4] (ABA PARA CRIAÇÃO DO PDF) Cada CLIENTE TEM O SEU  PDF que tem que ter seu proprio numero de registro, nunca pode ser igual ao outro.
+   [-] 	O ARQUIVO PDF na hora de salvar, ja deixa com o nome do cliente e o numero do PEDIDO
+   [-] 	Quero que o numero do pedido seja gerado automaticamente assim que salvar as informações
+   [-] 	Preciso que o Arquivo PDF tenha uma Formatação em  TABELAS
+
+
+

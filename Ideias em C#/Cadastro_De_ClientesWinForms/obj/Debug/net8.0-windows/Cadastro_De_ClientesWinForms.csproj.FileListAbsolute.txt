@@ -1,0 +1,6 @@
+C:\Gabriel Programador\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\Cadastro_De_ClientesWinForms\obj\Debug\net8.0-windows\Cadastro_De_ClientesWinForms.csproj.AssemblyReference.cache
+C:\Gabriel Programador\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\Cadastro_De_ClientesWinForms\obj\Debug\net8.0-windows\Cadastro_De_ClientesWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel Programador\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\Cadastro_De_ClientesWinForms\obj\Debug\net8.0-windows\Cadastro_De_ClientesWinForms.AssemblyInfoInputs.cache
+C:\Gabriel Programador\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\Cadastro_De_ClientesWinForms\obj\Debug\net8.0-windows\Cadastro_De_ClientesWinForms.AssemblyInfo.cs
+C:\Gabriel Programador\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\Cadastro_De_ClientesWinForms\obj\Debug\net8.0-windows\Cadastro_De_ClientesWinForms.csproj.CoreCompileInputs.cache
+C:\Gabriel Programador\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\Cadastro_De_ClientesWinForms\obj\Debug\net8.0-windows\Cadastro_De_ClientesWinForms.sourcelink.json

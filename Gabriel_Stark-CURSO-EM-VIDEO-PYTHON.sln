@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ideias em C#", "Ideias em C#", "{B78B184D-A754-457C-B750-053DB3292AB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cadastro_De_Clientes", "Ideias em C#\Cadastro_De_Clientes\Cadastro_De_Clientes.csproj", "{517FA088-FE47-48C5-BD3A-6B9BB9BA452F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cadastro_De_ClientesWinForms", "Ideias em C#\Cadastro_De_ClientesWinForms\Cadastro_De_ClientesWinForms.csproj", "{AE1452F1-6D75-4A73-BCC6-03540F2FA5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517FA088-FE47-48C5-BD3A-6B9BB9BA452F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517FA088-FE47-48C5-BD3A-6B9BB9BA452F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517FA088-FE47-48C5-BD3A-6B9BB9BA452F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517FA088-FE47-48C5-BD3A-6B9BB9BA452F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1452F1-6D75-4A73-BCC6-03540F2FA5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1452F1-6D75-4A73-BCC6-03540F2FA5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1452F1-6D75-4A73-BCC6-03540F2FA5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1452F1-6D75-4A73-BCC6-03540F2FA5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{517FA088-FE47-48C5-BD3A-6B9BB9BA452F} = {B78B184D-A754-457C-B750-053DB3292AB1}
+		{AE1452F1-6D75-4A73-BCC6-03540F2FA5F0} = {B78B184D-A754-457C-B750-053DB3292AB1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1198C1FC-ED43-4118-B3A3-D30B638E664D}
+	EndGlobalSection
+EndGlobal
