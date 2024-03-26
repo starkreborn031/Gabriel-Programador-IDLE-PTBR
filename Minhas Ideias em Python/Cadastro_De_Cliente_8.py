@@ -21,11 +21,11 @@ class CadastroClientesApp:
         self.style = ThemedStyle(self.root)
         self.style.set_theme("arc")
 
-        self.header_label = ttk.Label(self.root, text="STARK TECH MG", font=("Arial", 25, "bold"), padding=10)
+        self.header_label = ttk.Label(self.root, text="STARK TECH MG", font=("Arial", 25, "bold"), padding=15)
         self.header_label.pack()
         
         self.abas = ttk.Notebook(self.root)
-        self.abas.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
+        self.abas.pack(fill=tk.BOTH, expand=True, padx=30, pady=20)
 
         self.abas_clientes = ttk.Frame(self.abas)
         self.abas_orcamento = ttk.Frame(self.abas)
@@ -35,50 +35,52 @@ class CadastroClientesApp:
 
     # Widgets para a aba Clientes
         self.cliente_frame = ttk.LabelFrame(self.abas_clientes, text="Dados do Cliente")
-        self.cliente_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
+        self.cliente_frame.pack(fill=tk.BOTH, expand=True, padx=30, pady=25)
 
         self.nome_label = ttk.Label(self.cliente_frame, text="Nome completo:")
-        self.nome_label.grid(row=0, column=0, padx=10, pady=5, sticky=tk.W)
+        self.nome_label.grid(row=0, column=3, padx=10, pady=10, sticky=tk.W)
         self.nome_entry = ttk.Entry(self.cliente_frame)
-        self.nome_entry.grid(row=0, column=1, padx=10, pady=5)
+        self.nome_entry.grid(row=0, column=4, padx=30, pady=10)
 
         self.cpf_label = ttk.Label(self.cliente_frame, text="CPF:")
-        self.cpf_label.grid(row=1, column=0, padx=10, pady=5, sticky=tk.W)
+        self.cpf_label.grid(row=1, column=3, padx=10, pady=10, sticky=tk.W)
         self.cpf_entry = ttk.Entry(self.cliente_frame)
-        self.cpf_entry.grid(row=1, column=1, padx=10, pady=5)
+        self.cpf_entry.grid(row=1, column=4, padx=10, pady=10)
 
         self.telefone_label = ttk.Label(self.cliente_frame, text="Telefone:")
-        self.telefone_label.grid(row=2, column=0, padx=10, pady=5, sticky=tk.W)
+        self.telefone_label.grid(row=2, column=3, padx=10, pady=10, sticky=tk.W)
         self.telefone_entry = ttk.Entry(self.cliente_frame)
-        self.telefone_entry.grid(row=2, column=1, padx=10, pady=5)
+        self.telefone_entry.grid(row=2, column=4, padx=10, pady=10)
 
         self.data_label = ttk.Label(self.cliente_frame, text="Data de Entrada OS:")
-        self.data_label.grid(row=3, column=0, padx=10, pady=5, sticky=tk.W)
+        self.data_label.grid(row=3, column=3, padx=10, pady=10, sticky=tk.W)
         self.data_entry = DateEntry(self.cliente_frame, width=12, background='gray', foreground='white', borderwidth=2, date_pattern='dd/mm/yyyy')
-        self.data_entry.grid(row=3, column=1, padx=10, pady=5)
+        self.data_entry.grid(row=3, column=4, padx=10, pady=10)
 
         self.endereco_label = ttk.Label(self.cliente_frame, text="Endereço:")
-        self.endereco_label.grid(row=4, column=0, padx=10, pady=5, sticky=tk.W)
+        self.endereco_label.grid(row=4, column=3, padx=10, pady=10, sticky=tk.W)
         self.endereco_entry = ttk.Entry(self.cliente_frame)
-        self.endereco_entry.grid(row=4, column=1, padx=10, pady=5)
+        self.endereco_entry.grid(row=4, column=4, padx=10, pady=10)
 
         self.telefone_label = ttk.Label(self.cliente_frame, text="Telefone:")
-        self.telefone_label.grid(row=2, column=0, padx=10, pady=5, sticky=tk.W)
+        self.telefone_label.grid(row=2, column=3, padx=10, pady=10, sticky=tk.W)
         self.telefone_entry = ttk.Entry(self.cliente_frame)
-        self.telefone_entry.grid(row=2, column=1, padx=10, pady=5)
+        self.telefone_entry.grid(row=2, column=4, padx=10, pady=10)
 
         self.data_label = ttk.Label(self.cliente_frame, text="Data de Entrada OS:")  # Alterado aqui
-        self.data_label.grid(row=3, column=0, padx=10, pady=5, sticky=tk.W)
+        self.data_label.grid(row=3, column=3, padx=10, pady=10, sticky=tk.W)
         self.data_entry = DateEntry(self.cliente_frame, width=12, background='gray', foreground='white', borderwidth=2, date_pattern='dd/mm/yyyy')
-        self.data_entry.grid(row=3, column=1, padx=10, pady=5)
+        self.data_entry.grid(row=3, column=4, padx=10, pady=10)
 
         self.endereco_label = ttk.Label(self.cliente_frame, text="Endereço:")
-        self.endereco_label.grid(row=4, column=0, padx=10, pady=5, sticky=tk.W)
+        self.endereco_label.grid(row=4, column=3, padx=10, pady=10, sticky=tk.W)
         self.endereco_entry = ttk.Entry(self.cliente_frame)
-        self.endereco_entry.grid(row=4, column=1, padx=10, pady=5)
+        self.endereco_entry.grid(row=4, column=4, padx=10, pady=10)
 
         self.computador_frame = ttk.LabelFrame(self.root, text="Dados do Computador/Notebook")
+       
         self.computador_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
+        
 
         self.tipo_label = ttk.Label(self.computador_frame, text="Tipo de Computador:")
         self.tipo_label.grid(row=0, column=0, padx=10, pady=5, sticky=tk.W)
