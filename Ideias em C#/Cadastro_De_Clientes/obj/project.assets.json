@@ -741,32 +741,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stark\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Gabriel Programador\\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\\Ideias em C#\\Cadastro_De_Clientes\\Cadastro_De_Clientes.csproj",
+      "projectUniqueName": "C:\\Users\\Gabri\\OneDrive\\Documentos-DESKTOP-H6S2EAA\\Gabriel_Stark-CURSO-EM-VIDEO-Python\\Ideias em C#\\Cadastro_De_Clientes\\Cadastro_De_Clientes.csproj",
       "projectName": "Cadastro_De_Clientes",
-      "projectPath": "C:\\Gabriel Programador\\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\\Ideias em C#\\Cadastro_De_Clientes\\Cadastro_De_Clientes.csproj",
-      "packagesPath": "C:\\Users\\stark\\.nuget\\packages\\",
-      "outputPath": "C:\\Gabriel Programador\\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\\Ideias em C#\\Cadastro_De_Clientes\\obj\\",
+      "projectPath": "C:\\Users\\Gabri\\OneDrive\\Documentos-DESKTOP-H6S2EAA\\Gabriel_Stark-CURSO-EM-VIDEO-Python\\Ideias em C#\\Cadastro_De_Clientes\\Cadastro_De_Clientes.csproj",
+      "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabri\\OneDrive\\Documentos-DESKTOP-H6S2EAA\\Gabriel_Stark-CURSO-EM-VIDEO-Python\\Ideias em C#\\Cadastro_De_Clientes\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\stark\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -815,7 +807,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

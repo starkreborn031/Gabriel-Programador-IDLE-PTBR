@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "j5HPT5Vw554ojPbIafFPcFJR1QqPNfh10RvP6U0CGLYxq3jkxDtXcQ0UlmRXKfXZWeBMGHiAuYNdeuZkgOLrQA==",
+  "dgSpecHash": "6w0/XXCCtqM=",
   "success": true,
-  "projectFilePath": "C:\\Gabriel Programador\\Gabriel_Stark-CURSO-EM-VIDEO-PYTHON\\Ideias em C#\\Cadastro_De_ClientesWinForms\\Cadastro_De_ClientesWinForms.csproj",
+  "projectFilePath": "C:\\Users\\Gabri\\OneDrive\\Documentos-DESKTOP-H6S2EAA\\Gabriel_Stark-CURSO-EM-VIDEO-Python\\Ideias em C#\\Cadastro_De_ClientesWinForms\\Cadastro_De_ClientesWinForms.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\stark\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\stark\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
+    "C:\\Users\\Gabri\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Gabri\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
   ],
   "logs": [
     {
