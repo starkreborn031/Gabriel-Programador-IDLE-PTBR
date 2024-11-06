@@ -1,9 +1,11 @@
 import random
 import tkinter as tk
+
 from tkinter import ttk
 from tkinter import messagebox
 from tkinter import filedialog
 from datetime import datetime
+
 from reportlab.platypus import Table, TableStyle
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
